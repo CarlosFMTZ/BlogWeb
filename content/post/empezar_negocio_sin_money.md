@@ -6,7 +6,7 @@ categories: ["blog consejos", "negocio"]
 description: "Alternativa para hacer negocio sin dinero"
 draft: false
 ---
-# Alternativa de negocio sin dinero
+# 
 Uno de los grandes problemas que tienen las personas emprendedoras al iniciar un proyecto es la falta de dinero para llevarlo a cabo. Muchos nos encontramos con esta situación al iniciar un proyecto, vamos al banco y no nos ofrecen créditos, pero hoy en día hay otras alternativas.
 
 

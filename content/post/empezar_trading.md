@@ -6,7 +6,7 @@ categories: ["blog consejos", "freelancer"]
 description: "Este post se trata de como comenzar en el tema del trading"
 draft: false
 ---
-# Como empezar con el trading(tutorial)
+# 
 En esta ocasión estaremos haciendo algo interesante que me habéis estado pidiendo hace mucho tiempo, y esto es enseñaros las bases fundamentales del trading, ya que a muchos de vosotros os interesa debido a que es algo que da libertad financiera a muchas personas, aunque esto es algo que requiere de entrenamiento y educación.
 
 En general hay mucha gente que tiene las mismas dudas en común, como puede ser, ¿Realmente se puede ganar dinero con el trading?, ¿Se puede vivir del trading?

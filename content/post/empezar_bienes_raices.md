@@ -6,7 +6,7 @@ categories: ["blog consejos", "negocio"]
 description: "Si alguna vez has tenido la duda de como empezar con bienes raices"
 draft: false
 ---
-# Empezar con bienes raices
+# 
 Hay diferentes maneras de hacer dinero en el mercado de real estate, la más conocida y la más utilizada por todo el mundo seria la compra de una casa para uno mismo o la compra de una casa para alquilarla a un inquilino.
 
 Pero no se limita solo a esto, también puedes comprar un edificio, parcelas, pisos, chalets, locales comerciales, apartamentos etc.
