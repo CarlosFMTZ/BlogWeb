@@ -1,5 +1,5 @@
 ---
-title: "10 extensiones de código VS sin las que no puedo programar"
+title: "10 extensiones de código Visual Studio Code"
 date: 2020-05-01
 tags: ["visual studio", "programar", "codigo"]
 categories: ["codigo", "programacion"]
@@ -8,7 +8,7 @@ draft: false
 ---
 
 # 
-VS Code es mi editor de texto favorito. Es el editor de código más extensible y popular que existe. Y sorprendentemente está hecho por Microsoft (lo sé). En mi opinión, ningún otro IDE o editor se acerca a la mitad de lo que hace VS Code. Lo que lo hace tan robusto es su sistema de extensión. Le permite escribir una extensión para cada caso de uso posible que se le ocurra. Aquí están mis 10 extensiones principales.
+Visual Studio Code es mi editor de texto favorito. Es el editor de código más extensible y popular que existe. Y sorprendentemente está hecho por Microsoft (lo sé). En mi opinión, ningún otro IDE o editor se acerca a la mitad de lo que hace VS Code. Lo que lo hace tan robusto es su sistema de extensión. Le permite escribir una extensión para cada caso de uso posible que se le ocurra. Aquí están mis 10 extensiones principales.
 
 1. Beautify
 
