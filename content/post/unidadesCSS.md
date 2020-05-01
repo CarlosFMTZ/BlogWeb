@@ -7,7 +7,7 @@ description: "Tutorial para encontrar las diferentes unidades con css"
 draft: false
 ---
 
-# Unidades en CSS (em, rem, pt, px, vw, vh, vmin, vmax, ex, ch, ...)
+# 
 
 CSS conoce varias unidades de medida. La unidad más conocida son los píxeles, pero hay otras unidades que no son tan populares pero muy útiles en algunos casos de uso.
 
@@ -15,9 +15,9 @@ Este artículo cubre unidades relativas, unidades absolutas y unidades de ventan
 
 | Medios    | Recomendado | Precio | Medios | Recomendado | Precio |
 | :------- | :------: | -----: | :------: | :------: | -----: |
-| Item 1   | 15       | 150€   | 1 | 2 | 3 |
+| Pantalla   | em      | 150€   | 1 | 2 | 3 |
 | Item 2   | 3250     | 23,65€ | 1 | 2 | 3 |
-
+|
 Uso ocasional	Uso poco frecuente	No recomendado
 Pantalla	em, rem,%	px	ch, ex, vw, vh, vmin, vmax	cm, mm, pulg, pt, pc
 Impresión	em, rem,%	cm, mm, pulg, pt, pc	ch, ex	px, vw, vh, vmin, vmax

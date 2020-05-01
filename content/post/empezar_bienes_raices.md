@@ -47,5 +47,3 @@ Por este motivo debes de tener el conocimiento a la hora de invertir en este sec
 Otra manera de hacer rentabilidad de propiedades es comprar propiedades en mal estado, pero con una buena localización, de esta forma invirtiendo en su restauración para luego venderlas.
 
 Para esto necesitaras capital para comprar la propiedad, invertir en la construcción y remodelación. Pero debes de tener muy en cuenta el tiempo que va a llevar hacerlo ya que cada día que se va en remodelación y construcción es un día menos en el cual podrías tener la propiedad alquilada. Por lo que debes de pensar muy bien a quien contratar para encargarse de la remodelación de la misma, en caso de que sea un equipo ineficiente o inexperimentado te podrá hacer perder tus finanzas.
-
-FacebookTwitter

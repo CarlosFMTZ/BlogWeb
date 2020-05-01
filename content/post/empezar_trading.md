@@ -13,6 +13,7 @@ En general hay mucha gente que tiene las mismas dudas en común, como puede ser,
 
 Por lo que es muy importante resaltar que el avance tecnológico que se ha producido a través de internet no solo es para las personas y empresas más poderosas, sino que las personas con poco dinero también pueden aprender a hacer trading y ganar dinero generando un ingreso adicional, primando la calidad de su trading y no el volumen de dinero que se mueve.
 
+![](https://blog.selfbank.es/wp-content/uploads/2019/05/GettyImages-913219882-720x320.jpg)
 
 Por lo que una persona con una buena formación y una buena operativa, siempre va a poder vivir del trading, ya sea porque genere mucho dinero por el volumen de negociación que genere, o debido a que haga muy buen trading y que esa persona sea capaz de gestionar el dinero de otras personas a través de plataformas de social trading.
 
@@ -26,9 +27,12 @@ Otra forma que genera ingresos es el Social Trading, donde con poco dinero puede
 
 Aunque también tienes la opción de invertir tus dólares en índices bursátiles, al invertir en un índice estarás invirtiendo en un conjunto de acciones concretas, hoy en día te puedes encontrar muchísimos índices y cada uno con distintos tipos de acciones, dentro de los índices bursátiles más populares podemos encontrar al Ibex 35, Dow Jones, y el S&P 500.
 
+![](https://fxmedia.s3.eu-west-1.amazonaws.com/featured_images/5c0a858e1361e1544193422.jpeg)
 
 Una cosa muy importante a la hora de hacer trading es el apalancamiento, este es el poder de nuestro dinero, esto no solo te permite operar con menos dinero de lo que necesitarías, sino que también sirve como multiplicador de dinero, por lo que debes de tener cuidado ya que no solo se multiplican las ganancias, pero también las perdidas.
 
 En el mundo de Forex también son muy famosos los robots, estos son muy buenos cuando los utilizas para que te filtren información y te mantengan alertado de las oportunidades del mercado, por lo que son una muy buena herramienta para ayudarte con el trading. Sin embargo, estos no son perfectos y pueden equivocarse, por lo que es recomendado que siempre le eches un vistazo para asegurarte de que el robot te ha notificado de una oportunidad buena del mercado.
 
 Muchas personas utilizan robots para que le hagan el trading automático, haciendo que los robots abran y cierren operaciones automáticamente, esto es muy peligroso ya que como los robots pueden presentar errores, podrán afectar negativamente tus fondos causando un efecto negativo al esperado.
+
+Si quieres saber mas sobre este tema escribeme en mis redes sociales
