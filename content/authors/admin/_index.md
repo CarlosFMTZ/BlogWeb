@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ing.Carlos Frias Martínez
+name: Ing.Carlos Frías Martínez
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis intereses de investigación incluyen la programacion, desarrollo web, marketing digital asi como trading y me interesa mucho el tema de internet de las cosas, ademas big data y machine learning.
+bio: Mis intereses de investigación incluyen la programación, desarrollo web, marketing digital asi como trading y me interesa mucho el tema de internet de las cosas, ademas big data y machine learning.
 
 interests:
 - Internet de las cosas.
@@ -31,7 +31,7 @@ education:
     institution: Nova
     year: 2020
   - course: Ingenieria en Telématica
-    institution: Universidad Politecnica de Queretaro
+    institution: Universídad Politecníca de Querétaro
     year: 2020
  # - course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
@@ -66,7 +66,7 @@ social:
   link: https://www.youtube.com/channel/UCjsuii8mIixAPEvarIxOZuQ
 - icon: spotify
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://open.spotify.com/show/5kcbFyhDrwjZ8h7s6GtL2r
 
 #- icon: envelope
 #  icon_pack: fas
@@ -96,4 +96,4 @@ user_groups:
 - Visitors
 ---
 
-**Ingeniero en Telematica**, Hola mi nombre es Carlos Ulises,Nací en Mexico en Querétaro estudie y me gradue en la ingenieria en Telematica en la UPQ y actualmente trabajo como desarrollador.En 2020 consegui mi primer trabajo como desarrollador apenas saliendo de la carrera.En mi tiempo libre me gusta aprendar mas sobre la tecnologia y los negocios durante los ultimos tiempos he aprendido varias tecnologias me gusta aprender mas de los lenguajes de programacion.En mis proyectos personales son publicar varios cursos y videos que ayuden a las personas con los problemas que tengan ademas de que me gusta publicar [ebooks](#) y hacer publicaciones,tambien publico muchos post en este [blog](#) y en mi canal de [youtube](https://www.youtube.com/channel/UCjsuii8mIixAPEvarIxOZuQ).
+**Ingeniero en Telematica**, Hola mi nombre es Carlos, Nací en México, Querétaro estudie y me gradúe en la ingenieria en Telématica en la UPQ y actualmente trabajo como desarrollador. En 2020 consegui mi primer trabajo como desarrollador apenas saliendo de la carrera. En mi tiempo libre me gusta aprendar mas sobre la tecnologia y los negocios durante los ultimos tiempos he aprendido varias tecnologias me gusta aprender mas de los lenguajes de programacion. En mis proyectos personales son publicar varios cursos y videos que ayuden a las personas con los problemas que tengan ademas de que me gusta publicar [ebooks](#) y hacer publicaciones, tambien publico muchos post en este [blog](#) y en mi canal de [youtube](https://www.youtube.com/channel/UCjsuii8mIixAPEvarIxOZuQ).
