@@ -9,8 +9,11 @@ draft: false
 ---
 
 # Guia definitiva para Roadmap desarrollo web
-Si quieres aprender todo sobre lo que definitivamente es la guia de aprendizaje de desarrollo web puedes checar este link (#)
+Si quieres aprender todo sobre lo que definitivamente es la guia de aprendizaje de desarrollo web puedes checar este link 
+
 https://dev.to/javinpaul/the-2019-web-development-frontend-backend-roadmap-4le2
+
+
 Hola chicos, espero que estén bien en 2020. Estoy seguro de que todos ustedes ya han alcanzado sus metas y están pensando en cómo lograr esas metas. Si uno de sus objetivos es aprender a codificar o convertirse en un desarrollador web en 2020, tengo algo genial que compartir hoy con usted, el RoadMap 2020 Web Developer .
 
 Esta es una excelente ilustración de cómo convertirse en desarrollador web en 2020 y guiarlo sobre cómo puede aprender y dominar el desarrollo web en 2020.
