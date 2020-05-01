@@ -119,4 +119,5 @@ Esta pequeña extensión útil agrega el número de líneas del archivo abierto 
 Y eso es todo amigos. Estas son mis principales extensiones de VS Code. Me gustaría escuchar tus extensiones favoritas en los comentarios.
 
 🚀 Acechame en Instagram | Github | Twitter | Sitio web
+
 😄 ¡Que tengas un día maravilloso!
