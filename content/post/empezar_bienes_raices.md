@@ -39,6 +39,7 @@ Dependiendo el tipo de negocio que desee establecer tu inquilino, va a depender 
 
 No solo esto es importante, sino que siempre deberás de tener muy en cuenta la localización en la que este se encuentre, ya que no adelanta de nada tener un buen local o casa, sino que también debes de tener una buena localización donde haya flujo de personas, de caso contrario si tu local se encuentra en el medio de la nada, nadie querrá alquilarlo ya que el comercio no tendrá éxito debido a que no hay clientes que vengan a este.
 
+![](https://www.incasas.com.mx/images/easyblog_articles/475/b2ap3_large_Como-invertir-en-bienes-races.jpg)
 Lo mismo pasa con las casas, si tienes una en un lugar donde hay mucha contaminación, mucho ruido, zona de estudiantes o de discotecas.
 
 Por este motivo debes de tener el conocimiento a la hora de invertir en este sector, también puedes dejarle tu propiedad a un agente ya que este te lo gestionara completamente y tiene mucha experiencia y conocimiento en el sector. Lo malo es que tendrás que pagarles una comisión, pero al fin y al cabo es mejor pagar una comisión y asegurar tu inversión de que hacerlo sin ningún conocimiento y arriesgarte a tener una inversión mala.
