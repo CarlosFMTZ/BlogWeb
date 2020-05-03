@@ -8,12 +8,27 @@ draft: false
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
----
+  name: Share / Comparte
+  url: https://twitter.com
 
-# Podcast sobre la educación
-![]("https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode400/4337455/4337455-1586039761681-248b445937f58.jpg")
+  - icon: facebook
+  icon_pack: fab
+  name: Share / Comparte
+  url: https://www.facebook.com
+
+  - icon: spotify
+  icon_pack: fab
+  name: Share / Comparte
+  url: https://open.spotify.com/show/6YnZcM2eOSGhaNLru0YJFn
+
+    - icon: whatsapp
+  icon_pack: fab
+  name: Share / Comparte
+  url: https://web.whatsapp.com
+---
+ 
+# 
+
 Hola amigos en este segundo episodio de curiosidad sin fin comentamos un tema bastante bueno como lo es la educación cabe aclarar que nosotros no somos profesionales en el tema, pero podemos comentar porque vivimos el tema y observamos como es la educación en nuestro país. Espero y les agrade nuestro punto de vista, no olviden compartir si les gusto y si quieren compartir su opinión no olviden en contactarnos.
 
 Links para poder escuchar
@@ -34,4 +49,3 @@ Pocket Casts:
 
 Google Podcast:
 
-#pocast #educacion
