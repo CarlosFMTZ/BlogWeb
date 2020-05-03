@@ -7,10 +7,10 @@ description: "Hola amigos en este talk te dejo un increible podcast para que pue
 draft: false
   
 links:
-  - icon: fa-spotify
+  - icon: facebook
   icon_pack: fab
   name: Share
-  url: https://open.spotify.com/show/6YnZcM2eOSGhaNLru0YJFn
+  url: https://www.facebook.com
 
 
 ---
