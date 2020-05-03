@@ -43,6 +43,11 @@ height = "300px"
   overlay_img = "4.jpe"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
+  cta_label = "Invitame un cafe"
+   cta_url = "paypal.me/carlosfmtz"
+   cta_icon_pack = "fas"
+   cta_icon = "fa-mug-hot"
+
 [[item]]
   title = "Gracias por estar aqui"
   content = "Ayudame a seguir haciendo contenido :smile:"
