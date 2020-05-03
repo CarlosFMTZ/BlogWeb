@@ -8,25 +8,25 @@ draft: false
 links:
 - icon: twitter
   icon_pack: fab
-  name: Share / Comparte
+  name: Share 
   url: https://twitter.com
 
   - icon: facebook
   icon_pack: fab
-  name: Share / Comparte
+  name: Share 
   url: https://www.facebook.com
 
   - icon: spotify
   icon_pack: fab
-  name: Share / Comparte
+  name: Share
   url: https://open.spotify.com/show/6YnZcM2eOSGhaNLru0YJFn
 
     - icon: whatsapp
   icon_pack: fab
-  name: Share / Comparte
+  name: Share 
   url: https://web.whatsapp.com
 ---
- 
+
 # 
 
 Hola amigos en este segundo episodio de curiosidad sin fin comentamos un tema bastante bueno como lo es la educación cabe aclarar que nosotros no somos profesionales en el tema, pero podemos comentar porque vivimos el tema y observamos como es la educación en nuestro país. Espero y les agrade nuestro punto de vista, no olviden compartir si les gusto y si quieren compartir su opinión no olviden en contactarnos.
