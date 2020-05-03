@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Smart Domain"
   organization_url = "http://smartdomain.com.mx/"
-  title = "Fundar Smart Domain"
+  title = "Smart Domain"
    url = "http://smartdomain.com.mx/"
   # certificate_url = "https://www.edx.org"
   date_start = "2020-04-27"
   date_end = ""
-  description = "Funde mi primera empresa sobre servicios de desarrollo web y marketing digital"
+  description = "Hice mi primera empresa sobre servicios de desarrollo web y marketing digital"
   
 
 [[item]]
