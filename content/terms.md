@@ -1,7 +1,7 @@
 ---
 title: Terms
 date: "2020-05-28T00:00:00+01:00"
-draft: false
+draft: true
 share: false
 commentable: false
 editable: false
