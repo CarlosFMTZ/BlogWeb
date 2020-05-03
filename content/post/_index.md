@@ -8,7 +8,7 @@ title: Posts
 view: 3
 
 # Optional header image (relative to `static/img/` folder).
-header: "3.jpg"
+header: "featured.jpg"
   caption: ""
   image: ""
 ---
