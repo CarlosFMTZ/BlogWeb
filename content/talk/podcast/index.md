@@ -5,22 +5,26 @@ tags: ["consejos", "podcast", "educación"]
 categories: ["Podcast", "Consejos","educación"]
 description: "Hola amigos en este talk te dejo un increible podcast para que puedas escuchar puntos de vista sobre la educación"
 draft: false
+
 links:
 - icon: twitter
   icon_pack: fab
   name: Share 
   url: https://twitter.com
 
+links:
   - icon: facebook
   icon_pack: fab
   name: Share 
   url: https://www.facebook.com
-
+  
+links:
   - icon: spotify
   icon_pack: fab
   name: Share
   url: https://open.spotify.com/show/6YnZcM2eOSGhaNLru0YJFn
 
+links:
     - icon: whatsapp
   icon_pack: fab
   name: Share 
