@@ -46,7 +46,7 @@ height = "300px"
   cta_label = "Invitame un cafe"
    cta_url = "https://www.paypal.me/carlosfmtz"
    cta_icon_pack = "fas"
-   cta_icon = "fa-mug-hot"
+   cta_icon = "graduation-cap"
 
 [[item]]
   title = "Gracias por estar aqui"
