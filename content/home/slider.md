@@ -36,7 +36,7 @@ height = "300px"
 
 [[item]]
   title = "Tengo lo que buscas"
-  content = "Invitame un cafe :smile:"
+  # content = "Invitame un cafe :smile:"
   align = "left"
 
   overlay_color = "#36E3DB"  # An HTML color value.
@@ -44,7 +44,7 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Invitame un cafe"
-   cta_url = "paypal.me/carlosfmtz"
+   cta_url = "https://www.paypal.me/carlosfmtz"
    cta_icon_pack = "fas"
    cta_icon = "fa-mug-hot"
 
