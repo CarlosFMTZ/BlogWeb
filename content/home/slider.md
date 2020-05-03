@@ -40,15 +40,15 @@ height = "300px"
   align = "left"
 
   overlay_color = "#36E3DB"  # An HTML color value.
-  overlay_img = "3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "4.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Gracias por estar aqui"
   content = "Ayudame a seguir haciendo contenido :smile:"
   align = "right"
-
+ 
   overlay_color = "#36E3DB"  # An HTML color value.
-  overlay_img = "3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "2.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
