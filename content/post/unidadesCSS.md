@@ -5,9 +5,12 @@ tags: ["css", "estilo", "pixeles"]
 categories: ["front-end", "css"]
 description: "Tutorial para encontrar las diferentes unidades con css"
 draft: false
+image:
+  placement: 3
+  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-# ![](https://miro.medium.com/max/840/1*SKjEotIqtQ3P0MrBLbncMg.jpeg)
+#  
 ![](https://miro.medium.com/max/840/1*SKjEotIqtQ3P0MrBLbncMg.jpeg)
 CSS conoce varias unidades de medida. La unidad más conocida son los píxeles, pero hay otras unidades que no son tan populares pero muy útiles en algunos casos de uso.
 
