@@ -10,7 +10,18 @@ links:
   icon_pack: fab
   name: Share 
   url: https://twitter.com
+  
+links:
+  - icon: spotify
+  icon_pack: fab
+  name: Share
+  url: https://open.spotify.com/show/6YnZcM2eOSGhaNLru0YJFn
 
+links:
+    - icon: whatsapp
+  icon_pack: fab
+  name: Share 
+  url: https://web.whatsapp.com
 ---
 
 # 
