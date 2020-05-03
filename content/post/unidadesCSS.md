@@ -80,9 +80,8 @@ vmax es el máximo entre la altura o el ancho de la ventana en porcentaje, segú
 
 Si te gusta mi contenido, ¿podrías seguirme en Twitter? 
 
-<iframe width="240" height="180"
-src="https://www.youtube.com/watch?v=ow7YMKnHZMQ&tautoplay=1">
-</iframe>
 
-<a href="https://www.youtube.com/watch?v=ow7YMKnHZMQ&t" target="_blank" width="240" height="180"></a>
+
+<a href="http://www.youtube.com/watch?v=ow7YMKnHZMQ" target="_blank"><img src="http://img.youtube.com/vi/ow7YMKnHZMQ/0.jpg" 
+alt="Click aqui" width="240" height="180" border="10" /></a>
 
