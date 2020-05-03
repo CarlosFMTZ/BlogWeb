@@ -79,11 +79,10 @@ vmines el mínimo entre la altura o el ancho de la vista en porcentaje, dependie
 vmax es el máximo entre la altura o el ancho de la ventana en porcentaje, según cuál sea mayor.
 
 Si te gusta mi contenido, ¿podrías seguirme en Twitter? 
-<a href="{https://www.youtube.com/watch?v=ow7YMKnHZMQ&t}" title="Link Title"></a>
 
-![]({https://www.youtube.com/watch?v=ow7YMKnHZMQ&t})
+<iframe width="240" height="180"
+src="https://www.youtube.com/watch?v=ow7YMKnHZMQ&tautoplay=1">
+</iframe>
 
-<a href="https://www.youtube.com/watch?v=ow7YMKnHZMQ&t" target="_blank"><img src="https://dc722jrlp2zu8.cloudfront.net/media/featured_images/Que_es_css.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=ow7YMKnHZMQ&t" target="_blank" width="240" height="180"></a>
 
-[![IMAGE ALT TEXT HERE](https://dc722jrlp2zu8.cloudfront.net/media/featured_images/Que_es_css.jpg)](https://www.youtube.com/watch?v=ow7YMKnHZMQ&t)
