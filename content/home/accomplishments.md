@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org"
   date_start = "2020-04-01"
   date_end = "2020-04-04"
-  description = "Logre completar un curso de oracle que me proporciono la empresa"
+  description = "Logre completar un curso de Oracle que me proporciono la empresa"
 
 # [[item]]
 #  organization = "Empezar con el trading"

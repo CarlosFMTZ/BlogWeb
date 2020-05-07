@@ -17,7 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Bienvenido a mi sitio web "
-  content = "Pasala bien :smile:"
+  content = "Pásala bien :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -43,14 +43,14 @@ height = "300px"
   overlay_img = "4.jpe"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-  cta_label = "Invitame un cafe"
+  cta_label = "Invítame un café"
    cta_url = "https://www.paypal.me/carlosfmtz"
    cta_icon_pack = "fas"
    cta_icon = "mug-hot"
 
 [[item]]
-  title = "Gracias por estar aqui"
-  content = "Ayudame a seguir haciendo contenido :smile:"
+  title = "Gracias por estar aquí"
+  content = "Ayúdame a seguir haciendo contenido :smile:"
   align = "right"
  
   overlay_color = "#36E3DB"  # An HTML color value.
