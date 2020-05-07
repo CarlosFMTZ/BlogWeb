@@ -10,7 +10,7 @@ draft: false
 #  
 Visual Studio Code es mi editor de texto favorito. Es el editor de código más extensible y popular que existe. Y sorprendentemente está hecho por Microsoft (lo sé). En mi opinión, ningún otro IDE o editor se acerca a la mitad de lo que hace VS Code. Lo que lo hace tan robusto es su sistema de extensión. Le permite escribir una extensión para cada caso de uso posible que se le ocurra. Aquí están mis 10 extensiones principales.
 
-1. Beautify
+1. Beautify 
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--WiRwrP1y--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6jh0tui9nh993l4zzlwd.png)
 
