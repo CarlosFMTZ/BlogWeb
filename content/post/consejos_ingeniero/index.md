@@ -7,7 +7,7 @@ description: "Debes de conocer 10 consejos de un ingeniero"
 draft: false
 ---
 
-# 10 consejos de un ingeniero
+# 
 En las últimas semanas, quería compartir algunas de las lecciones que aprendí a lo largo de mi carrera como ingeniero, profesional independiente y ahora empezando unos proyectos independientes.
 
 Además, compartir es preocupante y si alguien puede aprender de algunos de mis errores y observaciones, ¡sería increíble!
@@ -20,17 +20,17 @@ Aprender los conceptos básicos del marketing es útil y esto no significa compr
 Construye un portafolio donde guardes tus proyectos e ideas.
 Mostrar todo, a que me refiero con esto a todas las ideas que tienes ponlas en desarrollo.
 Cuéntales a todos (amigos, familiares, tu red de LinkedIn) sobre lo que haces
-En pocas palabras comparte tus ideas y hazlas!!!
+¡¡¡En pocas palabras comparte tus ideas y hazlas!!!
 
 Lección 2: Ve con calma
 
-Al tratar con clientes ,partes interesadas o gerentes de proyecto, debes tener un buen sentido de comunicación, en el que ambos puedan entenderse entre sí para que puedan entregar un producto (software) que se ajuste a sus objetivos.
+Al tratar con clientes, partes interesadas o gerentes de proyecto, debes tener un buen sentido de comunicación, en el que ambos puedan entenderse entre sí para que puedan entregar un producto (software) que se ajuste a sus objetivos.
 
 Por lo tanto, el uso de frases como "Las solicitudes son lentas, deberíamos optar por dbs en memoria", puede que no sea del todo apreciado. Tenga en cuenta que no todos entienden la tecnología de la misma manera que usted y es importante respetarla, especialmente cuando se ejecuta su propio programa.
 
 Aprenda a usar el inglés simple (o cualquier idioma que use) cuando se comunique con partes interesadas no técnicas
 
-Lección 3: Los lenguajes de programación son importantes pero ...
+Lección 3: Los lenguajes de programación son importantes, pero ...
 
 Mientras reviso mi cuenta de Twitter, veo cómo las personas están obsesionadas por conocer los "mejores" lenguajes o framework, lo cual es definitivamente importante, PERO el enfoque "correcto" para un proyecto, no se trata solo del lenguaje o framework.
 
@@ -61,7 +61,7 @@ Cuando ejecute su propio programa y las cosas empiecen a mejorar, comenzará a t
 Adoptamos estos procesos y herramientas para mantenernos organizados:
 
 Diagramas de Gantt para la planificación de proyectos, lo que nos da una idea de cuánto tiempo llevará un proyecto, la secuencia de tareas y la asignación de recursos.
-Usamos Kanban  dentro de Trello para determinar todas las tareas y esto nos da una buena indicación del progreso actual y de lo que todos están haciendo.
+Usamos Kanban dentro de Trello para determinar todas las tareas y esto nos da una buena indicación del progreso actual y de lo que todos están haciendo.
 Organizamos stand-ups diarios con el equipo para discutir los problemas y el progreso de cada individuo.
 
 Si pregunta, ¿cómo se aplica esto a los equipos más pequeños, por ejemplo, 1 o 2 personas, todavía sugiero usar gráficos de Gantt + Kanban. ¡Mantente organizado sin importar lo pequeño que seas!
@@ -98,10 +98,11 @@ Lección 10: Construir relaciones duraderas
 Construir relaciones no solo es importante en los negocios, sino incluso cuando se trabaja en una organización, ya que aprenderán unos de otros. Más importante aún, nunca se sabe a dónde te llevará la vida y tu propio colega o jefe podría ser uno de tus primeros clientes o futuro socio comercial.
 
 El fin
-Espero que hayas disfrutado leyendo y hayas obtenido algún valor de esto. Bien hecho si has llegado al fondo: D
+Espero que hayas disfrutado leyendo y hayas obtenido algún valor de esto. Bien hecho si has llegado al fondo :D
 
 Siéntase libre de presentar cualquier sugerencia que pueda tener.
 
 
 #freelancer #desarrollo
+
 

@@ -1,8 +1,8 @@
 ---
 title: "Plataformas en la nube que deberías usar en 2020"
 date: 2020-05-01
-tags: ["plataformas", "programar", "codigo","nube"]
-categories: ["plataformas", "programacion"]
+tags: ["plataformas", "programar", "código”, “nube"]
+categories: ["plataformas", "programación"]
 description: "Plataformas en la nube que deberías usar"
 draft: false
 ---
@@ -15,7 +15,7 @@ Probablemente no pueda crear una aplicación completa y escalable sin utilizar a
 Aquí está la lista:
 
 1. Servicios web de Amazon
-Incluso si no lo está utilizando en su trabajo actual, al menos debería familiarizarse con los componentes EC2 y S3 .
+Incluso si no lo está utilizando en su trabajo actual, al menos debería familiarizarse con los componentes EC2 y S3.
 
 No necesita inscribirse en un curso costoso para aprender lo esencial.
 
@@ -121,7 +121,7 @@ Una buena manera de lograrlo es confiar en pruebas automatizadas y ser el primer
 
 Las pruebas unitarias y las solicitudes de API simplemente no son suficientes para verificar si su producto funciona como se espera para sus usuarios.
 
-Endtest ofrece una manera fácil de crear pruebas automatizadas funcionales y ejecutarlas en su laboratorio de dispositivos móviles y en la nube entre navegadores .
+Endtest ofrece una manera fácil de crear pruebas automatizadas funcionales y ejecutarlas en su laboratorio de dispositivos móviles y en la nube entre navegadores.
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--z9wn5vPz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/sn1fk6jsd5kis5y40rpw.gif)
 
@@ -235,5 +235,5 @@ function stripeTokenHandler(token) {
 }
 ```
 
-Te gusto?  hazmelo saber por redes sociales
-Gracias Excelente dia 
+¿Te gusto?  házmelo saber por redes sociales
+Gracias Excelente día

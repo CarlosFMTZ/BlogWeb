@@ -29,6 +29,6 @@ Aunque también otra forma que sería diferente a las acciones es a través de d
 
 Esto permite a muchas personas que no tienen grandes capitales a invertir y les permite aprender aparte de llevarse beneficios.  Esta es una manera interesante de invertir en proyectos ajenos.
 
-Otra alternativa de crowdfunding es intercambio de productos, como puede ser en el caso de que estes desarrollando un libro o una canción, tu inviertes dinero y yo a cambio o te doy mi libro, mi tema musical, etc.
+Otra alternativa de crowdfunding es intercambio de productos, como puede ser en el caso de que estés desarrollando un libro o una canción, tu inviertes dinero y yo a cambio o te doy mi libro, mi tema musical, etc.
 
 No siempre es dinero, también te pueden ser productos o servicios.

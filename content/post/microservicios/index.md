@@ -1,7 +1,7 @@
 ---
 title: "Tutorial de arquitectura de microservicios: todo lo que necesita para comenzar"
 date: 2020-03-22
-tags: ["microservicios", "java", "arquitectura","tutorial"]
+tags: ["microservicios", "java", "arquitectura”, “tutorial"]
 categories: ["microservicios", "arquitectura"]
 description: "Tutorial de arquitectura de microservicios: todo lo que necesita para comenzar"
 draft: false
@@ -10,7 +10,7 @@ draft: false
 # Tutorial de arquitectura de microservicios: todo lo que necesita para comenzar
 La arquitectura de microservicios es una de las tendencias de arquitectura de software más discutidas en este momento, y ha cambiado para siempre la forma en que se crean las aplicaciones empresariales. En lugar del lento y complejo enfoque monolítico del pasado, los desarrolladores y las empresas de todo el mundo están recurriendo a la arquitectura de microservicios para simplificar y escalar sus estructuras. De hecho, incluso compañías como Amazon, Netflix, Spotify y Uber han hecho la transición.
 
-Si desea comenzar con Microservices o simplemente tiene curiosidad sobre el debate que lo rodea, está en el lugar correcto. Hoy, lo guiaré a través de todo lo que necesita saber sobre Microservicios, desde ejemplos del mundo real hasta patrones de arquitectura y más. Cubriremos lo siguiente:
+Si desea comenzar con Microservicios o simplemente tiene curiosidad sobre el debate que lo rodea, está en el lugar correcto. Hoy, lo guiaré a través de todo lo que necesita saber sobre Microservicios, desde ejemplos del mundo real hasta patrones de arquitectura y más. Cubriremos lo siguiente:
 
 ¿Qué es la arquitectura de microservicios?
 Ventajas y desventajas
@@ -33,7 +33,7 @@ El uso de microservicios ofrece muchos beneficios tangibles, que discutiremos m�
 Monolítico vs. Microservicios
 La arquitectura monolítica es la forma tradicional de construir y desplegar aplicaciones. Esta estructura se basa en el concepto de una única unidad indivisible, que incluye el lado del servidor, el lado del cliente y la base de datos. Todas las facetas están unificadas y administradas como una sola unidad y base de código. Esto significa que cualquier actualización debe realizarse en la misma base de código, por lo que debe modificarse toda la pila. A medida que las aplicaciones monolíticas escalan, pueden volverse bastante complejas, por lo que el desarrollo general es generalmente más largo.
 
-Una arquitectura de microservicios , por otro lado, descompone esa unidad en unidades independientes que funcionan como servicios separados. Esto significa que cada servicio tiene su propia lógica y base de código. Se comunican entre sí a través de API (interfaces de programación de aplicaciones).
+Una arquitectura de microservicios, por otro lado, descompone esa unidad en unidades independientes que funcionan como servicios separados. Esto significa que cada servicio tiene su propia lógica y base de código. Se comunican entre sí a través de API (interfaces de programación de aplicaciones).
 
 Entonces, ¿qué arquitectura debes elegir? Vamos a desglosarlo.
 
@@ -93,7 +93,7 @@ EXPOSE 8080
 Un sistema de microservicio típico contiene múltiples contenedores Docker. La coordinación de un sistema de múltiples contenedores Docker requiere configuraciones para la red virtual. Los contenedores deben poder encontrarse entre sí para comunicarse. El entorno Docker Compose puede contactar a otro servidor a través de un enlace, que ofrece un sistema de descubrimiento de servicios.
 
 Sigue aprendiendo.
-Aprenda la arquitectura de microservicios sin desplazarse por videos o documentación. Los cursos educativos basados ​​en texto son fáciles de leer y cuentan con entornos de codificación en vivo, lo que hace que el aprendizaje sea rápido y eficiente.
+Aprenda la arquitectura de microservicios sin desplazarse por videos o documentación. Los cursos educativos basados en texto son fáciles de leer y cuentan con entornos de codificación en vivo, lo que hace que el aprendizaje sea rápido y eficiente.
 
 Una introducción a los principios y conceptos de microservicio
 
@@ -137,7 +137,7 @@ Esto se puede lograr a través de enlaces, donde una interfaz muestra un enlace 
 Sin embargo, hay algunas excepciones cuando una interfaz se debe implementar como un monolito. Por ejemplo, las aplicaciones móviles nativas deberían ser monolitos de implementación o si hubiera un equipo singular responsable del desarrollo de la interfaz.
 
 Microservicios asincrónicos
-Los microservicios síncronos realizan una solicitud a otros microservicios mientras procesa solicitudes y espera resultados. Los protocolos de comunicación asincrónica envían mensajes a los que los destinatarios reaccionan, pero no hay una respuesta directa. Un microservicio podría definirse como asíncrono si no realiza solicitudes a otros microservicios durante el procesamiento, o si realiza solicitudes pero no espera los resultados.
+Los microservicios síncronos realizan una solicitud a otros microservicios mientras procesa solicitudes y espera resultados. Los protocolos de comunicación asincrónica envían mensajes a los que los destinatarios reaccionan, pero no hay una respuesta directa. Un microservicio podría definirse como asíncrono si no realiza solicitudes a otros microservicios durante el procesamiento, o si realiza solicitudes, pero no espera los resultados.
 
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--Gx564mB7--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/69pkcy7lg0uj4960auq2.png)
@@ -166,17 +166,17 @@ Guía de microservicios: una colección de artículos aborda una variedad de tem
 
 El arte del monitoreo en la era de los microservicios: preguntas y respuestas útiles con el autor de "El arte del monitoreo" que cubre las estrategias de monitoreo
 
-Building Microservices:: el libro de O'Reilly sobre microservicios
+Building Microservices: el libro de O'Reilly sobre microservicios
 
 Guía para principiantes de GitHub para microservicios: repositorio de código fácil de navegar para principiantes
 
 Introducción a los microservicios de AWS: documentación de Amazon y definición de conceptos de microservicios
 
 Arquitectura de microservicios: los cursos en línea definitivos
-¿Busca un curso en línea en el que realmente pueda confiar? Lo cubrimos con una serie de microservicios de dos partes, todo lo que necesita saber, escrita por uno de los expertos en el campo, Eberhard Wolff , miembro fundador de la comunidad de Campeones de Java.
+¿Busca un curso en línea en el que realmente pueda confiar? Lo cubrimos con una serie de microservicios de dos partes, todo lo que necesita saber, escrita por uno de los expertos en el campo, Eberhard Wolff, miembro fundador de la comunidad de Campeones de Java.
 
 Comience con los principios básicos de los microservicios para obtener todas las bases necesarias para la implementación y la implementación.
 
 Una Introducción a los Principios y Conceptos de Microservicio lo guía a través de todos los pros y los contras de esta emocionante tendencia utilizando ejemplos del mundo real y estrategias de migración.
 
-Luego, puede pasar a la Arquitectura de microservicios: Implementación práctica , uno de los mejores cursos para los detalles esenciales de la implementación en el mundo real.
+Luego, puede pasar a la Arquitectura de microservicios: Implementación práctica, uno de los mejores cursos para los detalles esenciales de la implementación en el mundo real.

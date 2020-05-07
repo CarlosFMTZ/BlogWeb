@@ -1,12 +1,13 @@
 ---
-title: "Freelancer : Aquí hay algunos consejos prácticos y estrategias"
+title: "FreeLancer : Aquí hay algunos consejos prácticos y estrategias"
 date: 2020-04-06
 tags: ["freelancer", "notes", "consejos"]
 categories: ["blog consejos", "freelancer"]
 description: "Aquí hay algunos consejos prácticos y estrategias"
 draft: false
+
 ---
-# Freelancer Aquí hay algunos consejos prácticos y estrategias
+# 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--3nizxR_p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/z1qofgqjzyxqbkeedgun.jpg)
 
 Si eres un desarrollador que está considerando trabajar por cuenta propia, el salto que quieres dar parece realmente aterrador. Especialmente si ha estado empleado ahora por un período de tiempo significativo.

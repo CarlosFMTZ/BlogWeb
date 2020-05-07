@@ -5,11 +5,7 @@ tags: ["css", "estilo", "pixeles"]
 categories: ["front-end", "css"]
 description: "Tutorial para encontrar las diferentes unidades con css"
 draft: false
-image:
-  placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
-
 #  
 ![](https://miro.medium.com/max/840/1*SKjEotIqtQ3P0MrBLbncMg.jpeg)
 CSS conoce varias unidades de medida. La unidad más conocida son los píxeles, pero hay otras unidades que no son tan populares pero muy útiles en algunos casos de uso.
@@ -26,7 +22,7 @@ Pantalla	em, rem,%	px	ch, ex, vw, vh, vmin, vmax	cm, mm, pulg, pt, pc
 Impresión	em, rem,%	cm, mm, pulg, pt, pc	ch, ex	px, vw, vh, vmin, vmax
 Unidades relativas
 A diferencia de las unidades absolutas como píxeles, puntos o centímetros, también puede definir tamaños en unidades relativas como porcentaje, em o rem.
-Las unidades relativas también cumplen con los estándares de accesibilidad .
+Las unidades relativas también cumplen con los estándares de accesibilidad.
 En la mayoría de los navegadores, el tamaño de fuente predeterminado es 16px, puede usar este valor como base para los cálculos (por ejemplo, 16px equivale a 1em, 1rem o 100%).
 
 Unidad	Descripción
@@ -38,11 +34,11 @@ ex	altura x de la fuente actual, medida a la altura de la minúscula x
 
 
 ¿Cuál es la diferencia entre em y rem?
-La diferencia radica en la herencia. El remvalor se basa en el elemento raíz ( html). Cada elemento secundario usa el htmltamaño de fuente como base de cálculo.
+La diferencia radica en la herencia. El rem valor se basa en el elemento raíz (html). Cada elemento secundario usa el html tamaño de fuente como base de cálculo.
 
 em por otro lado, se basa en el tamaño de fuente del elemento padre.
 
-remhace que el cálculo del tamaño de fuente sea mucho más fácil. Con elementos anidados o incluso múltiples elementos anidados (por ejemplo, listas), el tamaño de fuente ya no tiene que calcularse en relación con el tamaño de fuente del elemento padre. remsiempre calcula el tamaño de fuente en relación con la htmletiqueta.
+Rem hace que el cálculo del tamaño de fuente sea mucho más fácil. Con elementos anidados o incluso múltiples elementos anidados (por ejemplo, listas), el tamaño de fuente ya no tiene que calcularse en relación con el tamaño de fuente del elemento padre. Rem siempre calcula el tamaño de fuente en relación con la html etiqueta.
 
 Diferentes familias de fuentes
 Altura x de diferentes familias de fuentes
@@ -51,7 +47,7 @@ Todas las fuentes tienen el mismo tamaño (18 puntos), pero la barra roja indica
 
 ancho del carácter "0"
 
-Las fuentes vuelven a tener el mismo tamaño (18 puntos). En este gráfico chse compara el ancho de caracteres ( ). Las fuentes monoespaciales tienen el mismo ancho para cada carácter, mientras que las fuentes serif o sans-serif pueden tener anchuras diferentes para cada carácter ( ies más angosto que o).
+Las fuentes vuelven a tener el mismo tamaño (18 puntos). En este gráfico chse compara el ancho de caracteres ( ). Las fuentes mono espaciales tienen el mismo ancho para cada carácter, mientras que las fuentes serif o sans-serif pueden tener anchuras diferentes para cada carácter ( ies más angosto que o).
 
 Unidades absolutas
 Las unidades absolutas tienen un tamaño fijo, no se puede discutir cuánto mide un centímetro. Si tiene un caso en el que se requiere la longitud exacta, debe usar unidades absolutas (por ejemplo, para componentes que no deben redimensionarse). También pueden ser útiles si desea definir restricciones para evitar que las áreas se vuelvan demasiado anchas o demasiado estrechas. Las unidades absolutas no cambian según el tamaño de la pantalla, la dirección u otras variaciones.
@@ -76,7 +72,7 @@ vmin	1% de la dimensión más pequeña de la ventana gráfica (vw o vh)
 vmax	1% de la dimensión más grande de la ventana gráfica (vw o vh)
 
 
-vminy vmaxpuede cambiar mientras se cambia el tamaño de la ventana del navegador o se cambia la orientación del teléfono móvil.
+vmin y vmax puede cambiar mientras se cambia el tamaño de la ventana del navegador o se cambia la orientación del teléfono móvil.
 vmines el mínimo entre la altura o el ancho de la vista en porcentaje, dependiendo de cuál sea más pequeño.
 
 vmax es el máximo entre la altura o el ancho de la ventana en porcentaje, según cuál sea mayor.

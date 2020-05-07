@@ -5,6 +5,7 @@ tags: ["visual studio", "programar", "codigo"]
 categories: ["codigo", "programacion"]
 description: "Extenciones para visual studio code"
 draft: false
+
 ---
  
 #  

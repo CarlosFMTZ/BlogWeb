@@ -30,7 +30,7 @@ Al comprar una propiedad por plano puedes elegir ir pagándola por fases dependi
 
 Aunque una de sus desventajas de esto es que estas pagando por la propiedad y no puedes alquilarla. Lo cual esto tira atrás a muchas personas ya que estas desean invertir en una propiedad para comenzar a alquilarla inmediatamente.
 
-De hecho, dependiendo lo largo que sea el proyecto va a variar sus fases. Por lo que si has comprado el proyecto en las primeras fases, pueden llegar a haber personas que estén interesadas a comprarte en una fase posterior de la cual tú la hayas comprado, mismo siendo en plano. De esta forma ya obtendrás un beneficio sobre la inversión inicial mismo antes que el proyecto comience a desarrollarse.
+De hecho, dependiendo lo largo que sea el proyecto va a variar sus fases. Por lo que, si has comprado el proyecto en las primeras fases, pueden llegar a haber personas que estén interesadas a comprarte en una fase posterior de la cual tú la hayas comprado, mismo siendo en plano. De esta forma ya obtendrás un beneficio sobre la inversión inicial mismo antes que el proyecto comience a desarrollarse.
 
 
 Otro tipo de propiedad es una comercial, como puede ser una tienda o restaurante, pero normalmente lo que hacen estas personas es comprar el espacio y alquilárselo al que vaya a poner la tienda. Por lo que el propietario de la tienda será tu inquilino.

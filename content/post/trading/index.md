@@ -1,3 +1,4 @@
+
 ---
 title: "Como empezar con el trading"
 date: 2020-04-06
@@ -35,4 +36,4 @@ En el mundo de Forex también son muy famosos los robots, estos son muy buenos c
 
 Muchas personas utilizan robots para que le hagan el trading automático, haciendo que los robots abran y cierren operaciones automáticamente, esto es muy peligroso ya que como los robots pueden presentar errores, podrán afectar negativamente tus fondos causando un efecto negativo al esperado.
 
-Si quieres saber mas sobre este tema escribeme en mis redes sociales
+Si quieres saber más sobre este tema escríbeme en mis redes sociales.

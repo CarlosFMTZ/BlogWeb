@@ -1,14 +1,15 @@
 ---
 title: "Libros de programación gratuitos"
 date: 2020-05-01
-tags: ["libros", "programar", "codigo","gratis"]
-categories: ["libros", "programacion"]
+tags: ["libros", "programar", "código”, “gratis"]
+categories: ["libros", "programación"]
 description: "Libros de programación gratuitos"
 draft: false
+
 ---
 
 # 
-Todos los idiomas técnicos PDF de la A a la Z‼ ️ ¡Gratis!
+¡Todos los idiomas técnicos PDF de la A a la Z‼ ️ ¡Gratis!
 
 1- libro de algoritmos
 
