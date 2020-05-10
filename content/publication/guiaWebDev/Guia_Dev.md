@@ -8,7 +8,7 @@ description: "Guia definitiva para aprender desarrollo web de la mejor manera"
 draft: false
 ---
 
-# Guia definitiva para Roadmap desarrollo web
+# 
 Si quieres aprender todo sobre lo que definitivamente es la guia de aprendizaje de desarrollo web puedes checar este link 
 
 https://dev.to/javinpaul/the-2019-web-development-frontend-backend-roadmap-4le2

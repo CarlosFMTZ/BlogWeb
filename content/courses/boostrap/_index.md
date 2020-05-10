@@ -5,7 +5,7 @@ tags: ["Deep Learning"]
 categories: ["curso", "boostrap","css"]
 description: "El mejor curso de boostrap desde cero"
 draft: false
----
+--- 
 # 
 Bootstrap es un framework de CSS que nos facilita y estandariza el desarrollo de sitios web.
 Esta pensando para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.
