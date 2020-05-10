@@ -1,5 +1,7 @@
 ---
 title: "Curso Boostrap desde cero"
+summary: Bootstrap es un framework de CSS que nos facilita y estandariza el desarrollo de sitios web.
+weight: 1
 date: 2020-02-05
 tags: ["Deep Learning"]
 categories: ["curso", "boostrap","css"]
@@ -7,6 +9,8 @@ description: "El mejor curso de boostrap desde cero"
 draft: false
 --- 
 # 
+![](https://www.diariodeunprogramador.net/wp-content/uploads/2018/08/bootstrap.jpg)
+
 Bootstrap es un framework de CSS que nos facilita y estandariza el desarrollo de sitios web.
 Esta pensando para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.
 
