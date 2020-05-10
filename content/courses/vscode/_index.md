@@ -1,7 +1,6 @@
 ---
 title: "Curso Visual Studio code"
-summary: Un editor de texto es fundamental cuando nos dedicamos a la programación. Este tutorial presenta las características del editor de texto VSCode.
-Busca ser un tutorial básico en principio para hacer uso de VSCode en el desarrollo de aplicaciones en JavaScript, Html, CSS, TypeScript etc.
+summary: Un editor de texto es fundamental cuando nos dedicamos a la programación. Este tutorial presenta las características del editor de texto VSCode
 weight: 1
 date: 2020-02-10
 tags: ["Deep Learning"]
@@ -9,6 +8,8 @@ categories: ["curso", "vscode","css"]
 description: "Curso sobre el editor de textos vscode"
 draft: false
 --- 
+Un editor de texto es fundamental cuando nos dedicamos a la programación. Este tutorial presenta las características del editor de texto VSCode,Busca ser un tutorial básico en principio para hacer uso de VSCode en el desarrollo de aplicaciones en JavaScript, Html, CSS, TypeScript etc.
+
 El editor de texto VSCode ha sido creado y es mantenido por Microsoft. Lo distribuye con licencia Open Source y por lo tanto en forma gratuita. Lo debemos descargar del sitio code.visualstudio.com, como podemos comprobar está disponible tanto para Windows, Mac y Linux:
 
 ![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto001.jpg)
