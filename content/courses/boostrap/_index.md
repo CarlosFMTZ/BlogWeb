@@ -90,5 +90,7 @@ Más adelante veremos componentes de Bootstrap 4 que si las utilizamos debemos i
 Los tres archivos Javascript requeridos son:
 
 jquery-3.2.1.slim.min.js
+
 popper.min.js
+
 bootstrap.min.js
