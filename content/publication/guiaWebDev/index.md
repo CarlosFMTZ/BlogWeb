@@ -5,10 +5,11 @@ tags: ["programacion", "Desarrollo Web","herramiendas de desarrollo","desarrollo
 categories: ["desarrollo", "programacion"]
 description: "Guia definitiva para aprender desarrollo web de la mejor manera"
 draft: false
+featured: true
 ---
 
 # 
-![](https://img-a.udemycdn.com/course/750x422/650714_1d38_4.jpg)
+
 Si quieres aprender todo sobre lo que definitivamente es la guia de aprendizaje de desarrollo web puedes checar este link 
 
 https://dev.to/javinpaul/the-2019-web-development-frontend-backend-roadmap-4le2
