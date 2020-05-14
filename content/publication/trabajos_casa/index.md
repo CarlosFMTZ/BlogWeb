@@ -103,25 +103,27 @@ Puedes ganar atractivas comisiones cuando una persona compra un producto que hay
 Otra forma es colocar anuncios de Google Adsense en tu blog. Cuantas más personas hagan clic en tus anuncios, más dinero ganarás.
 
 
+Si te gusta este blog tambien puedes apoyarme haciendo click [aqui](https://www.paypal.me/carlosfmtz) 
+
 ### ¿Qué es el marketing de afiliación?
 
 El marketing de afiliación es un tipo de marketing en el que el afiliado promociona productos de otras empresas o personas a cambio de una comisión por cada venta realizada a clientes remitidos por el afiliado.
 
 Es decir, que si promocionas el producto que vende otra persona o empresa y consigues que la gente compre ese producto, te llevas un dinero por cada venta que se haya hecho gracias a ti.
 
-Perfil ideal -
+Perfil ideal 
 
 Las personas que aman hablar, escribir, explicar y tienen la capacidad de persuadir.
 
-Habilidades requeridas -
+Habilidades requeridas 
 
 Capacidad para promocionar un producto online a través de las redes sociales, videos, anuncios, etc.
 
-Tiempo requerido para iniciar el marketing de afiliación -
+Tiempo requerido para iniciar el marketing de afiliación 
 
 Prácticamente alrededor de una hora. Solo necesitas seleccionar un producto online que pague una comisión cuando los promociones y luego lo vendas utilizando tu enlace de afiliado.
 
-Consejos -
+Consejos 
 
 1. Selecciona un producto que se venda online de un nicho con el que estés familiarizado. Por ejemplo, si eres dietista, selecciona un producto relacionado con la dieta.
 
@@ -301,7 +303,7 @@ La monetización es muy simple. Cuantos más miembros se registren en tu sitio w
 
 Más ayuda -
 
-Consulta el tutorial de Joan Boluda sobre cómo crear un Membership Site.
+Consulta el tutorial sobre cómo crear un Membership [Site](https://boluda.com/tutorial/crear-un-membership-site/).
 
 
 ### Vender Webs en flippa
@@ -351,4 +353,4 @@ Cómo monetizar -
 
 3. Inicia la subasta y espera las ofertas. La gente comenzará a ofertar para comprar tu sitio. Una vez que recibas la oferta que satisfaga tu precio de venta objetivo, finaliza el trato con el ofertante.
 
-4. Flippa gestionará todos los pagos y demás cosas técnicas por ti y recibirá sus comisiones a través del método de pago seleccionado.
+4. Flippa gestionará todos los pagos y demás cosas técnicas por ti y recibirá sus comisiones a través del método de pago seleccionado. 
