@@ -6,12 +6,14 @@ categories: ["guia", "trabajo","casa","desarrollo"]
 description: "Trabajos que puedes realizar desde casa"
 draft: false
 --- 
-**2.-** Videos de Youtube
+**1.-** Videos de Youtube
+
 Empezar un canal de YouTube es una de las formas más sencillas para ganar dinero y que no necesita inversión.
 YouTube obtiene casi 5 mil millones de reproducciones de vídeo al día, lo que demuestra su poder en Internet.
 Felix Kjellberg, el dueño de PewDiePie (una cuenta de YouTube), ganó 12 millones de dólares en 2017 al administrar un solo canal de YouTube.
+
 Tú también puedes tener un canal exitoso si aprovechas la oportunidad que YouTube nos brinda actualmente.
-Perfil ideal -
+Perfil ideal
 Personas que aman crear vídeos, les gusta hablar sobre vídeos, grabar documentales o cortometrajes.
 Habilidades requeridas 
 
@@ -53,6 +55,8 @@ La regla general para la monetización en YouTube es sencilla. Cuantas más vist
 Por cierto si no estas suscrito a mi [canal](https://www.youtube.com/channel/UCjsuii8mIixAPEvarIxOZuQ) te invito a que lo hagas te puede interesar.
 
 Link [aqui](https://www.youtube.com/channel/UCjsuii8mIixAPEvarIxOZuQ)
+
+
 **2.-** Creacion de Blog
 Ser blogger es una de las formas más fáciles de ganar dinero desde casa. A diferencia de cualquier otro trabajo, si estás blogueando desde casa, no necesitas trabajar con un horario fijo.
 
@@ -96,4 +100,47 @@ Cómo monetizar
 
 Puedes monetizar tu blog recomendando productos o servicios relacionados con el tema de tu blog, ya sea escribiendo un artículo informativo o colocando anuncios publicitarios en las páginas relevantes de tu blog.
 Puedes ganar atractivas comisiones cuando una persona compra un producto que hayas recomendado.
-Otra forma es colocar anuncios de Google Adsense en tu blog. Cuantas más personas hagan clic en tus anuncios, más dinero ganarás
+Otra forma es colocar anuncios de Google Adsense en tu blog. Cuantas más personas hagan clic en tus anuncios, más dinero ganarás.
+
+
+**3.-**¿Qué es el marketing de afiliación?
+
+El marketing de afiliación es un tipo de marketing en el que el afiliado promociona productos de otras empresas o personas a cambio de una comisión por cada venta realizada a clientes remitidos por el afiliado.
+
+Es decir, que si promocionas el producto que vende otra persona o empresa y consigues que la gente compre ese producto, te llevas un dinero por cada venta que se haya hecho gracias a ti.
+
+Perfil ideal -
+
+Las personas que aman hablar, escribir, explicar y tienen la capacidad de persuadir.
+
+Habilidades requeridas -
+
+Capacidad para promocionar un producto online a través de las redes sociales, videos, anuncios, etc.
+
+Tiempo requerido para iniciar el marketing de afiliación -
+
+Prácticamente alrededor de una hora. Solo necesitas seleccionar un producto online que pague una comisión cuando los promociones y luego lo vendas utilizando tu enlace de afiliado.
+
+Consejos -
+
+1. Selecciona un producto que se venda online de un nicho con el que estés familiarizado. Por ejemplo, si eres dietista, selecciona un producto relacionado con la dieta.
+
+Hay muchos productos disponibles en cada nicho así que solo necesitas enfocarte en qué nicho de mercado es más adecuado para tí.
+
+2. Lugares para encontrar productos: Clickbank.com, Shareasale.com, Jvzoo.com. Estos sitios web tienen miles de productos listados de múltiples temáticas y nichos de mercado.
+
+3. Elije un producto que te pague al menos un 50% de comisión por cada venta.
+
+4. La mayoría de los sitios web de productos manejan la opción de enlaces de afiliado y los pagos para que no tengas que preocuparte por cómo obtendrás tus comisiones.
+
+Simplemente obten el enlace de afiliado personalizado creado por el proveedor y comienza a promocionarlo.
+
+5. Si deseas ganar dinero rápidamente mediante el marketing de afiliación, intenta promocionar tus enlaces de afiliado en sitios sociales como Facebook, Twitter, Digg, StumbleUpon y Reddit.
+
+Cómo monetizar -
+
+La monetización es simple, solo haz que más personas compren el producto a través de tu enlace de afiliado. Crea una página de Facebook o anuncios publicitarios sobre el producto.
+
+Informa a la gente de cómo el producto les ayudará a resolver sus problemas.
+
+Mejora el conocimiento de las personas sobre el sector del producto y ayúdalos a resolver otros problemas relacionados.
