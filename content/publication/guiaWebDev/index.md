@@ -5,7 +5,7 @@ tags: ["programacion", "Desarrollo Web","herramiendas de desarrollo","desarrollo
 categories: ["desarrollo", "programacion"]
 description: "Guia definitiva para aprender desarrollo web de la mejor manera"
 draft: false
-featured: true
+
 ---
 
 # 

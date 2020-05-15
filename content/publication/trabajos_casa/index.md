@@ -5,6 +5,7 @@ tags: ["guia", "casa","trabajo","desarrollo"]
 categories: ["guia", "trabajo","casa","desarrollo"]
 description: "Trabajos que puedes realizar desde casa"
 draft: false
+featured: true
 --- 
 ### Videos de Youtube
 
@@ -297,11 +298,11 @@ Por ejemplo, si ofreces la mayor parte de tu contenido en formato de texto pero 
 
 Pero ten cuidado, no abrumes a los miembros con varias iniciativas diferentes a la vez. Introduce una cosa a la vez.
 
-Cómo monetizar -
+Cómo monetizar
 
 La monetización es muy simple. Cuantos más miembros se registren en tu sitio web más ingresos que generan las tarifas mensuales que pagan los miembros.
 
-Más ayuda -
+Más ayuda
 
 Consulta el tutorial sobre cómo crear un Membership [Site](https://boluda.com/tutorial/crear-un-membership-site/).
 
@@ -312,11 +313,11 @@ Consulta el tutorial sobre cómo crear un Membership [Site](https://boluda.com/t
 
 Flippa.com es un mercado online para vender y comprar sitios web.
 
-Perfil ideal -
+Perfil ideal
 
 Personas a las que les gusta desarrollar sitios web.
 
-Habilidades requeridas -
+Habilidades requeridas
 
 Conocimiento profundo de la plataforma Wordpress y de las herramientas utilizadas para la creación de sitios web.
 
@@ -324,7 +325,7 @@ Tiempo requerido para crear un sitio web -
 
 Depende de la experiencia del desarrollador en la creación de sitios web.
 
-Consejos -
+Consejos
 
 1. Elije un tema que te apasione. Debes de ser un apasionado del tema en el que se centra tu sitio web. Si lanzas un sitio web sobre algo que no te importa, perderá interés muy rápidamente e inevitablemente dejarás de trabajar en él.
 
@@ -345,7 +346,7 @@ Un buen nombre de dominio es una parte esencial de la marca de tu blog. Elige un
 
 5. Debes hacer que el diseño y el aspecto de tu sitio web se vean muy profesionales. Lo creas o no, los nuevos visitantes harán un juicio sobre tu blog dentro de los primeros 10 segundos de carga, por lo que debes asegurarte de que el diseño de tu sitio web les atraiga y les guste.
  
-Cómo monetizar -
+Cómo monetizar
 
 1. Regístrate y registra tu sitio web en Flippa.com. Flippa funciona en el modelo de licitación, el mejor postor obtiene la propiedad del sitio web.
 
@@ -354,3 +355,234 @@ Cómo monetizar -
 3. Inicia la subasta y espera las ofertas. La gente comenzará a ofertar para comprar tu sitio. Una vez que recibas la oferta que satisfaga tu precio de venta objetivo, finaliza el trato con el ofertante.
 
 4. Flippa gestionará todos los pagos y demás cosas técnicas por ti y recibirá sus comisiones a través del método de pago seleccionado. 
+
+### Vender cursos en Udemy
+
+¿Qué es Udemy?
+
+Udemy.com es un mercado de aprendizaje online. Udemy tiene una gran lista de cursos de todo tipo, desde programación hasta yoga, fotografía y mucho más.
+
+Puedes crear un curso en los formatos de texto, audio y vídeo. Cada curso está disponible bajo demanda y los estudiantes pueden aprender a su propio ritmo, en su propio tiempo y en cualquier dispositivo.
+
+Perfil ideal
+
+Personas a las que les gusta enseñar, explicar y resolver problemas.
+
+Habilidades requeridas
+
+1. Conocimiento profundo de cualquier temática de tu elección.
+
+2. Capacidad para expresar conocimiento de una forma fácil de entender.
+
+3. Capacidad para crear y grabar videos de alta calidad.
+
+Tiempo requerido para crear un vídeo curso
+
+Depende del alcance del curso, la cantidad de módulos incluidos y el tiempo requerido para la preparación.
+
+Consejos
+
+1. Elije un tema en el que estés especializado. Estudia los cursos relevantes para ese tema y observa cuántas personas están interesadas y que realmente se hayan inscrito en esos cursos.
+
+Esto te dará una comprensión aproximada de las personas que están interesadas en tu tema y dispuestas a invertir en tu curso.
+
+2. Estudia los otros cursos disponibles y descubre las cosas que puedes ofrecer que harán que tu curso sea mucho mejor, diferente de otros cursos disponibles.
+
+3. Identifica el nivel de tu audiencia y luego crea el contenido del curso.
+
+Por ejemplo, primero debes decidir si tu curso es para principiantes o para expertos.
+
+Entonces, en consecuencia, debes crear el contenido del curso que atraiga a la audiencia correcta.
+
+4. Asegúrate de que el título y la descripción del curso estén optimizados para atraer a su público objetivo. Intenta responder las preguntas frecuentes que hace tu audiencia en la descripción de tu curso.
+
+5. Entrega, al menos, el 80% de tu curso en formato de vídeo, ya que es la forma más atractiva de aprendizaje. Además, manten la duración de cada video lección entre 2 y 10 minutos.
+
+7. Establece una relación con el público e interactúa. Siempre puedes hacer cuestionarios entre temas, bloques temáticos, modulos para que sea entretenido e interactivo.
+
+Cómo monetizar -
+
+1. Udemy recibe muchos visitantes diarios, por lo que hay muchas posibilidades de que tu curso sea visto y la gente se inscriba y comiences a ganar dinero.
+
+2. Incluso puedes comenzar un pequeño blog sobre los temas relacionados con tu curso y así promoverlo.
+
+3. Cuantas más personas se inscriban en tu curso más dinero que ganarás.
+
+### Vender servicios en Fiverr
+
+¿Qué es Fiverr?
+
+Fiverr.com es un mercado global online que ofrece tareas, servicios y productos, a un costo de $5.
+
+Fiverr recibe casi 4.7 millones de visitas al mes. Tu objetivo debe ser aprovechar la poderosa base de visitantes de Fiverr para llegar a más personas y venderles tus servicios o productos.
+
+Cada servicio o tarea que ofreces en Fiverr se llama gig, que en definitiva es un producto virtual. Con la base de millones de visitantes de Fiverr, no necesitas preocuparte mucho por la promoción y el manejo de pagos, ya que Fiverr se encarga de eso por ti.
+
+Todo lo que necesitas hacer es concentrarte en entregar un trabajo de alta calidad para mantener altas tus calificaciones, ya que las calificaciones otorgadas por tus clientes tendrán un gran impacto en el fracaso o el éxito para conseguir nuevos trabajos.
+
+Las personas ofrecen una variedad diversa de servicios en Fiverr que abarca desde gráficos y diseño, marketing digital, música y audio, publicidad hasta cualquier otra cosa que te puedas imaginar.
+
+Recuerda que puedes vender tu gig a cualquier precio, $5 es solo el precio mínimo.
+
+Los mejores vendedores de gigs de Fiverr ganan más de $50,000 al año al aprovechar la plataforma y proporcionar servicios de alta calidad.
+
+Perfil ideal
+
+1. Personas que aman ayudar a los demás facilitando su trabajo.  
+
+2. Personas que aman la libertad de trabajar, haciendo lo que realmente les gusta.
+
+Habilidades requeridas
+
+Personas que tienen habilidades profundas en cualquier área en particular y que utilizándolas, pueden ayudar a otras personas a completar sus tareas o facilitarles la vida.
+
+Tiempo requerido para crear un gig en Fiverr -
+
+Puedes crear un gig en Fiverr en menos de una hora. Todo lo que necesitas hacer es registrarte en Fiverr.
+
+Al crear un gig, tendrás que insertar el título de tu gig, subir la imagen del gig, escribir la descripción del gig e insertar etiquetas y palabras clave relevantes.
+
+Consejos -
+
+1. Encuentra tus mejores habilidades - Lo primero que debe hacer es sentarte en silencio y descubrir las habilidades donde más destacas y atenerte a las tareas relacionadas con ellas hasta que veas algún éxito.
+
+Por ej. Si eres una persona que puede diseñar logotipos y sitios web, entonces debes crear y vender esos gigs en Fiverr que se centran en la creación de logotipos y el diseño web.
+
+2. Haz una tarea inicial - Antes de sumergirte en la creación de gigs, debes investigar un poco para asegurarte de que el gig que planeas ofrecer tenga compradores interesados.¿Qué pasa si tienes una idea maravillosa para un gig, pero no se vendió? Para evitar esta situación, debes realizar la investigación necesaria para comprender qué buscan los compradores en tu nicho.
+
+3. Encuentra gigs populares relacionados con tus habilidades - Una de las mejores maneras de ver el éxito con Fiverr es descubrir los gigs populares relacionados con tu conjunto de habilidades, estudiarlos y luego modelar tu gig en consecuencia.
+
+Las métricas más importantes que debes tener en cuenta al estudiar otros gigs son:
+
+Título
+Descripción
+Imagen
+Estrategia para colocar precios
+Estrategia de ventas
+Estrategia de bonificación
+4. Crea el título de tu gig - Ahora que estás listo con todos los datos de la investigación, salta a la creación del gig. Obviamente, aquí la creación del título será tu primer paso. Los siguientes son los pasos que debes seguir para optimizar el título de tu gig.
+
+- Según el modelo de datos de tu investigación, usa palabras llamativas y seductoras en el título para asegurarte de que atraiga la atención de tus clientes potenciales y sea relevante para ellos.
+
+Por ejemplo, si estás ofreciendo un gig de diseño de logotipos. Debes considerar el uso de títulos como:
+
+> Diseñaré 3 logotipos MAGNÍFICOS en 24 horas
+
+> Diseñaré logotipos PROFESIONALES con revisiones gratuitas
+
+> Diseñaré 2 logotipos IMPRESIONANTES con BONUS de archivo editable gratuito
+
+Todos los títulos anteriores están bien diseñados porque incluyen dos cosas importantes:
+Primero, todos tienen palabras seductoras como MAGNÍFICO, PROFESIONAL, IMPRESIONANTE y BONIFICACIÓN. Estas palabras ayudan a llamar la atención de las personas adecuadas.
+
+Segundo, son títulos atractivos en los aspectos más importantes para cualquier persona que quiera comprar el diseño de un logotipo.
+
+Por ejemplo, el primer título "3 logotipos MAGNÍFICOS en 24 horas" atraerá a las personas que necesitan urgentemente un logotipo.
+
+El segundo título "Logotipos PROFESIONALES con revisiones gratuitas" atraerá al tipo de personas que desean la opción de incorporar sus cambios en el diseño del logotipo.
+
+El tercer título "2 logotipos impresionantes con BONUS de archivo editable gratuito" atraerá a las personas que tienen algún conocimiento de diseño de logotipos y quieren personalizar el logotipo por su cuenta.
+
+5. Crea la imagen de tu gig - Al hacer la tarea inicial debes de haber observado que algunos gigs tienen mejores imágenes que otros, lo que los hace destacar. Haz una lista corta de tales imágenes e inspírate en ellas mientras modelas tu imagen.
+
+Una vez que estés listo con la idea inicial, usa herramientas gratuitas de edición de imágenes en línea como Pixlr o BeFunky para crear la imagen de tu gig.
+
+6. Escribe la descripción del gig - La descripción de tu gig juega un papel importante para convencer a tus clientes potenciales de que hagan un pedido contigo. Por lo tanto, debes asegurarte de que la descripción de tu gig sea precisa, clara y atractiva para tus clientes potenciales.
+
+Estudia las descripciones de otros gigs relacionados para inspirarte y modela tu descripción tomándolos como referencia. Recuerda, nunca copies otro gig pues eso hará que te expulsen. Simplemente usa las descripciones de la competencia para obtener ideas que te ayuden a crear una descripción única.
+
+Además, asegúrate de incluir tu gig en la categoría correcta para mantener su relevancia.
+
+7. Usa las etiquetas correctas - Las etiquetas juegan un papel muy importante para que tu gig aparezca arriba en el ranking. La mayoría de las personas no se dan cuenta de su importancia, por lo que te brinda una buena oportunidad de superarles si optimizas tu gig correctamente con etiquetas adecuadas.
+
+8. Además de todos los puntos mencionados anteriormente, debes asegurarte de que tu trabajo sea creíble y único en Fiverr.
+
+9. Por último, puede haber, por ejemplo, muchos diseñadores de logotipos en Fiverr, pero si tú eres el que comprende las necesidades de tus clientes y entregas el trabajo de la mejor manera posible, podrás fidelizarlos como clientes habituales durante mucho tiempo.
+
+Cómo monetizar
+
+La monetización es muy simple. Cuantas más personas hagan pedidos contigo, más dinero que ganas.
+
+Tu profesionalidad durante el proceso de elaboración y la calidad del trabajo que entregas influye en las calificaciones de tus usuarios, lo que afecta directamente al posicionamiento de tu pedido.
+
+La regla general es que cuanto más altas sean las calificaciones de los usuarios, más y mejores pedidos tendrás.
+
+Fiverr maneja todas sus transacciones de manera segura para que no tengas que preocuparte por ningún problema durante el procesamiento de pagos.
+
+
+### Revender en eBay
+
+¿Qué es eBay? 
+
+eBay.com es el sitio web más popular para comprar y vender productos en Internet. Es un lugar donde las personas y las empresas pueden comprar o vender artículos nuevos o de segunda mano, desde libros y ropa hasta autos y casi cualquier cosa.
+
+Así es como funciona eBay -
+
+1. Un vendedor clasifica un artículo en eBay, desde antigüedades hasta teléfonos móviles, libros y artículos deportivos.
+
+2. El vendedor elige si vender el artículo a un precio fijo o aceptar solo ofertas (tipo subasta).
+
+3. En una lista de tipo subasta, la oferta se abre a un precio que el vendedor especifica y permanece en eBay durante un cierto número de días. Los compradores luego hacen ofertas sobre el artículo. Cuando finaliza el tiempo, gana el comprador que hizo la oferta más alta.
+
+4. En una lista de precios fijos, el primer comprador dispuesto a pagar el precio fijado por el vendedor obtiene el artículo. 
+
+Perfil ideal -
+
+Personas motivadas y que sepan correr la voz: amigos, familiares, conocidos y/o gente desconocida que utilizan medios online o fuera de línea.
+
+Habilidades requeridas
+
+Alguna experiencia en la venta de productos online o fuera de línea es bienvenida, junto con una mente orientada a los negocios.
+
+Tiempo requerido para comenzar a vender en eBay
+
+Para comenzar a vender, primero debes crear una cuenta en eBay y una cuenta de PayPal. Después de eso, debes registrar tu producto por lo que necesitarás algunas fotos del producto y escribir una descripción atractiva.
+
+Incluso si eres un principiante, puedes realizar todas las tareas anteriores en un día o dos.
+
+Consejos 
+
+1. Si eres completamente nuevo en eBay y tu cuenta no tiene ningún comentario, es una buena práctica obtener algunos comentarios antes de comenzar a vender algo.
+
+La gente desconfía de comprar algo en un medio online hoy en día, por lo que si tu cuenta tiene 0 comentarios, nadie te comprará nada.
+
+Se recomienda que obtengas al menos 10-15 comentarios antes de vender algo.
+
+La forma más sencilla de obtener comentarios es comprar 10-15 artículos de $0.99 con envío gratis.
+
+Muchos vendedores dejan comentarios positivos de inmediato cuando realizas el pago.
+
+2. Comienza con algo pequeño - La mayoría de los revendedores de eBay compran un stock al por mayor de cualquier producto en particular y luego lo venden en eBay a un precio minorista.
+
+Si no tienes dinero para comprar un stock al por mayor, busca artículos no deseados presentes en tu casa que estén en buenas condiciones y haz una lista de ellos.
+
+3. Investigación - Ahora que tienes una lista de algunos artículos listos para vender, debes asegurarte de que haya un mercado para ellos.
+
+Tómate 10 minutos para buscar tus artículos en Google y descubre su valor de mercado en eBay y en otros sitios de comercio electrónico.
+
+Esto te ayudará a vender artículos de manera más competitiva porque tendrás el conocimiento del mercado de tus artículos y la estrategia de precios.
+
+Además, busca palabras clave específicas relevantes que ayuden a las personas a encontrar tus artículos a través del motor de búsqueda de Google.
+
+4. Crea el título - El título es el factor más importante para llamar la atención de tu comprador potencial. Asegúrate de que tu título sea atractivo, completo y que tenga incluido palabras claves específicas.
+
+No tienes que ser un mago tecnológico para esto. Solo pregúntate, ¿qué escribiría un posible comprador de este artículo en el cuadro de búsqueda?
+
+5. Escribe la descripción del artículo - Completa todos los campos en el formulario y asegúrate de que tu descripción textual proporcione toda la información que su posible comprador podría buscar.
+
+La mayoría de los vendedores perezosos ignoran esto y no logran vender nada en eBay.
+
+6. Sube las imágenes del artículo - Sube solo imágenes de alta calidad. Asegúrate de que las imágenes del artículo sean nuevas, claras (no borrosas) y cubran el producto desde todos los ángulos.
+
+Además, no te limites a subir 2-3 imágenes, sube al menos 6 imágen
+La mayoría de los vendedores expertos usan el tiempo de listado de 10 días a partir del jueves, también debes de hacer esto, te dará dos fines de semana completos. Por lo general, se recibe más tráfico los fines de semana.
+
+Cómo monetizar -
+
+La monetización es muy simple. Cuantas más personas hagan pedidos contigo más dinero que ganas.
+
+La calidad y la entrega de tu artículo influyen en los comentarios de los usuarios, lo que afecta directamente al posicionamiento de tu pedido. Así que asegúrate de entregar artículos en buen estado y de buena calidad.
+
+eBay maneja todas tus transacciones de forma segura para que no tengas que preocuparte por ningún problema en el procesamiento de pago.
+
+Una vez que te encuentres en una etapa de ganancia, compra tus productos más vendidos al por mayor a un precio mayorista y luego véndelos a un precio minorista para aumentar tus ganancias.
