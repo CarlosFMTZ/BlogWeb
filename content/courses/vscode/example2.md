@@ -1,6 +1,6 @@
 ---
-title: Example Page 2
-linktitle: Tips 3-4
+title: Configuracion de visual studio code 
+linktitle: Configuracion vs code
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -13,30 +13,66 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
+Otra de las características fundamentales que tiene el editor de texto Visual Studio Code es la posibilidad de configurar sus funcionalidades como pueden ser fuentes, colores, tamaños de fuentes, tabulaciones, modos de presentar en pantalla el editor etc.
 
-Here are some more tips for getting started with Academic:
+En este momento podemos configurar más de 540 características.
 
-## Tip 3
+Para acceder a la ventana de configuración del VSCode lo podemos hacer de tres formas:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Desde el ícono de la rueda dentada que aparece en la parte inferior izquierda:
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto048.jpg)  
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+También podemos acceder a la pestaña de configuración desde el menú de barra seleccionando (Archivo -> Preferencias -> Configuración):
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto049.jpg)
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Finalmente en cualquier momento podemos abrir la pestaña de configuración mediante las teclas (Ctrl + ,):
 
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto050.jpg)
 
-## Tip 4
+Ventana de configuración
+Del lado izquierdo nos muestran las distintas secciones que podemos configurar, y del lado derecho los valores que podemos asignarle:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto051.jpg)
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Primero se agrupan las propiedades que podemos configurar más utilizadas como puede ser espacios para tabulación, tamaño de fuente etc:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto052.jpg)
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Luego de efectuar un cambio en la ventana de "Configuración", por ejemplo el tamaño de la fuente:
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto053.jpg)
+
+Cerremos la pestaña de configuración y abramos cualquier archivo, luego podemos comprobar que el tamaño de la fuente es ahora de 20 puntos:
+
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto054.jpg)
+
+Configuración de usuario y configuración de área de trabajo
+En el ejemplo anterior modificamos la "Configuración de usuario", ésta es aplicada a todos los archivos que se editen. Podemos definir configuraciones particulares a un área de trabajo, para eso el área de trabajo debe estar abierta.
+
+Para probar la configuración de un área de trabajo primero hagamos la apertura de una área de trabajo que tengamos guardada y procedamos a entrar a "Configuración":
+
+![](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/imagentema/foto055.jpg)
+
+Debemos seleccionar la opción "Espacio de trabajo" y recién pasar a modificar valores de configuración.
+
+La configuración definida solo tiene efecto en esa área de trabajo, luego si cerramos dicha área de trabajo y abrimos otra veremos que la configuración hecha anteriormente no tiene efecto.
+
+La configuración del área de trabajo VSCode lo resuelve modificando el archivo con extensión '.code-workspace':
+
+```json
+{
+	"folders": [
+		{
+			"path": "C:\\TutorialVSCode"
+		},
+		{
+			"path": "C:\\documentacion"
+		}
+	],
+	"settings": {
+		"editor.fontSize": 10
+	}
+}
+```

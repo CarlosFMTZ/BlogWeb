@@ -1,6 +1,6 @@
 ---
 title: Archivo independiente,Creación, apertura y modificación.
-linktitle: Tips 1-2
+linktitle: Archivos
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
