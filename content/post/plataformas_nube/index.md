@@ -1,6 +1,6 @@
 ---
 title: "Plataformas en la nube que deberías usar en 2020"
-date: 2020-05-01
+date: 2020-05-18
 tags: ["plataformas", "programar", "código”, “nube"]
 categories: ["plataformas", "programación"]
 description: "Plataformas en la nube que deberías usar"

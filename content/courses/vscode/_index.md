@@ -6,7 +6,7 @@ date: 2020-02-10
 tags: ["Deep Learning"]
 categories: ["curso", "vscode","css"]
 description: "Curso sobre el editor de textos vscode"
-draft: false
+draft: false 
 --- 
 Un editor de texto es fundamental cuando nos dedicamos a la programación. Este tutorial presenta las características del editor de texto VSCode,Busca ser un tutorial básico en principio para hacer uso de VSCode en el desarrollo de aplicaciones en JavaScript, Html, CSS, TypeScript etc.
 

@@ -11,6 +11,7 @@ draft: false
 # 
 ![](https://www.diariodeunprogramador.net/wp-content/uploads/2018/08/bootstrap.jpg)
 
+
 Bootstrap es un framework de CSS que nos facilita y estandariza el desarrollo de sitios web.
 Esta pensando para que se adapte tanto a las pantallas de equipos de escritorio como a móviles y tablets.
 
@@ -94,3 +95,5 @@ jquery-3.2.1.slim.min.js
 popper.min.js
 
 bootstrap.min.js
+
+Si quieres aprender desarrollo front-end con Bootstarp 4 practicando poco a poco con las tecnologías más potentes y solicitadas en el mercado y quieres subir de nivel en el desarrollo web y aumentar tus oportunidades laborales ¡Este es tu CURSO!
