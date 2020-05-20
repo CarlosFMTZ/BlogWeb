@@ -7,6 +7,9 @@ description: "Trabajos que puedes realizar desde casa"
 draft: false
 featured: true
 --- 
+
+En estos dias estaba investigando entre varios foros y articulos y llegue a varios puntos importantes donde los plasme en este post algunos si fueron copiados de algun articulo o blog porque son varios y bastante interesates,cada uno de estos trabajos los puedes empezar hoy mismo y tendran un beneficio muy grande a largo tiempo.
+
 ### Videos de Youtube
 
 Empezar un canal de YouTube es una de las formas más sencillas para ganar dinero y que no necesita inversión.

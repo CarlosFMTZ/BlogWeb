@@ -1,5 +1,5 @@
 ---
-title: "Tutorial de arquitectura de microservicios: todo lo que necesita para comenzar"
+title: "Arquitectura de microservicios"
 date: 2020-03-22
 tags: ["microservicios", "java", "arquitectura”, “tutorial"]
 categories: ["microservicios", "arquitectura"]
@@ -7,16 +7,18 @@ description: "Tutorial de arquitectura de microservicios: todo lo que necesita p
 draft: false
 ---
 
-# Tutorial de arquitectura de microservicios: todo lo que necesita para comenzar
+# 
+
 La arquitectura de microservicios es una de las tendencias de arquitectura de software más discutidas en este momento, y ha cambiado para siempre la forma en que se crean las aplicaciones empresariales. En lugar del lento y complejo enfoque monolítico del pasado, los desarrolladores y las empresas de todo el mundo están recurriendo a la arquitectura de microservicios para simplificar y escalar sus estructuras. De hecho, incluso compañías como Amazon, Netflix, Spotify y Uber han hecho la transición.
 
 Si desea comenzar con Microservicios o simplemente tiene curiosidad sobre el debate que lo rodea, está en el lugar correcto. Hoy, lo guiaré a través de todo lo que necesita saber sobre Microservicios, desde ejemplos del mundo real hasta patrones de arquitectura y más. Cubriremos lo siguiente:
 
 ¿Qué es la arquitectura de microservicios?
-Ventajas y desventajas
-Microservicios y Docker
-Stacks tecnológicos y patrones de arquitectura
-Guía de recursos
+- Ventajas y desventajas
+- Microservicios y Docker
+- Stacks tecnológicos y patrones de arquitectura
+- Guía de recursos
+
 ¡Empecemos!
 
 ¿Qué es la arquitectura de microservicios?

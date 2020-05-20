@@ -18,7 +18,7 @@ Una cosa es cierta y esta es que, si compras un terreno y en este construyes un 
 
 Una cosa muy importante que se debe de tener en cuenta a la hora de comprar un terreno es entender y estudiar la localización de este, ya que muchas veces la localización vale mucho más que la propia construcción.
 
-De nada serviría tener el mejor edificio del mundo en el medio de la nada ya que a nadie le gustaría vivir allí, por lo que te tienes que asegurar de tener una muy buena localización, ya que esto en el futuro te va a ayudar a que se revalorice el precio de mercado del cual tú compraste tu piso.
+De nada serviría tener el mejor edificio del mundo en el medio de la nada ya que a nadie le gustaría vivir allí, por lo que te tienes que asegurar de tener una muy buena localización, ya que esto en el futuro te va a ayudar a que se revalorice el precio de mercado del cual tú compraste tu piso, esto se refiere a plusbalia.
 
 Ya que no solo es importante el ingreso que obtienes de renta, sino que también el incremento de precio que va a obtener tu propiedad.
 
@@ -47,3 +47,5 @@ Por este motivo debes de tener el conocimiento a la hora de invertir en este sec
 Otra manera de hacer rentabilidad de propiedades es comprar propiedades en mal estado, pero con una buena localización, de esta forma invirtiendo en su restauración para luego venderlas.
 
 Para esto necesitaras capital para comprar la propiedad, invertir en la construcción y remodelación. Pero debes de tener muy en cuenta el tiempo que va a llevar hacerlo ya que cada día que se va en remodelación y construcción es un día menos en el cual podrías tener la propiedad alquilada. Por lo que debes de pensar muy bien a quien contratar para encargarse de la remodelación de la misma, en caso de que sea un equipo ineficiente o inexperimentado te podrá hacer perder tus finanzas.
+
+Dejame saber tu opinion con un comentario y si te ayudo puedes tambien comentarlo,exito y paz! ✌
