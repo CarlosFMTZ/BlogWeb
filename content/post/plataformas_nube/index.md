@@ -1,12 +1,12 @@
 ---
 title: "Plataformas en la nube que deberías usar en 2020"
-date: 2020-05-18
+date: 2020-04-18
 tags: ["plataformas", "programar", "código”, “nube"]
 categories: ["plataformas", "programación"]
 description: "Plataformas en la nube que deberías usar"
 draft: false
 ---
-
+ 
 # 
 Una plataforma en la nube es generalmente una solución llave en mano que puede facilitarle la vida y quitarle algo de complejidad a sus hombros.
 

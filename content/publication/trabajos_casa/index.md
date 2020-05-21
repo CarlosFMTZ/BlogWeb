@@ -93,9 +93,13 @@ Por ejemplo, no sería buena idea escribir sobre consejos de recetas en un blog 
 Hazte las siguientes preguntas:
 
 ¿Cómo me destacaré entre la multitud?
+
 ¿Qué puedo decir que aún no se ha dicho?
+
 ¿Cuál es mi punto de vista diferenciador?
+
 ¿Por qué quiero hacer esto?
+
 7. Sé profesional en la forma en que administras y haces crecer tu blog. No critiques a otras marcas, bloggers o personas. Recuerda, cosecharás lo que siembres. No quieras que algo que hayas dicho vuelva y te perjudique algún día.
 
 8. Ten la mente abierta y estate dispuesto a colaborar con otros bloggers. Conocerás a personas fantásticas e impresionantes.
@@ -255,27 +259,27 @@ Esto le permitirá a Amazon vender tu libro electrónico en todos los países d
 Crea un sitio web de nicho sobre el tema relacionado y promociona tu eBook a través de él. Cuantos más libros electrónicos vendas, más dinero ganarás.
 
 ### Crear un membership site
-Qué es un Membership Site? -
+Qué es un Membership Site?
 
 Un Membership Site es un sitio web privado, con contenido exclusivo disponible solo para los miembros registrados.
 
 Por lo general, proporciona a los miembros la capacidad de interactuar entre ellos. Pagan una tarifa mensual por ser miembro del sitio web.
 
-Perfil ideal -
+Perfil ideal
 
 Personas a las que les gusta interactuar, guiar y liderar una comunidad.
 
-Habilidades requeridas -
+Habilidades requeridas
 
 1. Conocimiento profundo de cualquier sector en particular.
 
 2. Capacidad para investigar cosas nuevas y generar constantemente contenido nuevo y útil.
 
-Tiempo requerido para crear un Membership Site -
+Tiempo requerido para crear un Membership Site
 
 Depende de la experiencia del creador sobre la temática del site.
 
-Consejos -
+Consejos
 
 1. Al principio, mantén la tarifa por unirse al Membership Site muy baja. Apunta a crear un mínimo producto viable en lugar de crear un producto perfecto. Siempre podrás mejorar tu sitio en etapas posteriores.
 
@@ -324,7 +328,7 @@ Habilidades requeridas
 
 Conocimiento profundo de la plataforma Wordpress y de las herramientas utilizadas para la creación de sitios web.
 
-Tiempo requerido para crear un sitio web -
+Tiempo requerido para crear un sitio web
 
 Depende de la experiencia del desarrollador en la creación de sitios web.
 
@@ -337,10 +341,15 @@ Consejos
 Intenta encontrar las respuestas a las siguientes preguntas:
 
 ¿Quiénes son tus competidores directos?
+
 ¿Cómo ganan dinero tus competidores?
+
 ¿Cómo ganará dinero tu sitio web?
+
 ¿Cómo puedes hacer que tu web creada se destaque de las demás?
+
 ¿Cuánto tiempo llevará monetizar tu web?
+
 3. Elije un nombre de dominio que sea relevante para el tema escogido y que atraiga a tu público objetivo.
 
 Un buen nombre de dominio es una parte esencial de la marca de tu blog. Elige un .com como tu extensión de dominio porque se ve más profesional.
@@ -439,13 +448,13 @@ Habilidades requeridas
 
 Personas que tienen habilidades profundas en cualquier área en particular y que utilizándolas, pueden ayudar a otras personas a completar sus tareas o facilitarles la vida.
 
-Tiempo requerido para crear un gig en Fiverr -
+Tiempo requerido para crear un gig en Fiverr
 
 Puedes crear un gig en Fiverr en menos de una hora. Todo lo que necesitas hacer es registrarte en Fiverr.
 
 Al crear un gig, tendrás que insertar el título de tu gig, subir la imagen del gig, escribir la descripción del gig e insertar etiquetas y palabras clave relevantes.
 
-Consejos -
+Consejos
 
 1. Encuentra tus mejores habilidades - Lo primero que debe hacer es sentarte en silencio y descubrir las habilidades donde más destacas y atenerte a las tareas relacionadas con ellas hasta que veas algún éxito.
 
@@ -458,12 +467,20 @@ Por ej. Si eres una persona que puede diseñar logotipos y sitios web, entonces 
 Las métricas más importantes que debes tener en cuenta al estudiar otros gigs son:
 
 Título
+
 Descripción
+
 Imagen
+
 Estrategia para colocar precios
+
 Estrategia de ventas
+
 Estrategia de bonificación
-4. Crea el título de tu gig - Ahora que estás listo con todos los datos de la investigación, salta a la creación del gig. Obviamente, aquí la creación del título será tu primer paso. Los siguientes son los pasos que debes seguir para optimizar el título de tu gig.
+
+4. Crea el título de tu gig
+
+Ahora que estás listo con todos los datos de la investigación, salta a la creación del gig. Obviamente, aquí la creación del título será tu primer paso. Los siguientes son los pasos que debes seguir para optimizar el título de tu gig.
 
 - Según el modelo de datos de tu investigación, usa palabras llamativas y seductoras en el título para asegurarte de que atraiga la atención de tus clientes potenciales y sea relevante para ellos.
 
@@ -486,11 +503,15 @@ El segundo título "Logotipos PROFESIONALES con revisiones gratuitas" atraerá a
 
 El tercer título "2 logotipos impresionantes con BONUS de archivo editable gratuito" atraerá a las personas que tienen algún conocimiento de diseño de logotipos y quieren personalizar el logotipo por su cuenta.
 
-5. Crea la imagen de tu gig - Al hacer la tarea inicial debes de haber observado que algunos gigs tienen mejores imágenes que otros, lo que los hace destacar. Haz una lista corta de tales imágenes e inspírate en ellas mientras modelas tu imagen.
+5. Crea la imagen de tu gig
+
+Al hacer la tarea inicial debes de haber observado que algunos gigs tienen mejores imágenes que otros, lo que los hace destacar. Haz una lista corta de tales imágenes e inspírate en ellas mientras modelas tu imagen.
 
 Una vez que estés listo con la idea inicial, usa herramientas gratuitas de edición de imágenes en línea como Pixlr o BeFunky para crear la imagen de tu gig.
 
-6. Escribe la descripción del gig - La descripción de tu gig juega un papel importante para convencer a tus clientes potenciales de que hagan un pedido contigo. Por lo tanto, debes asegurarte de que la descripción de tu gig sea precisa, clara y atractiva para tus clientes potenciales.
+6. Escribe la descripción del gig
+
+La descripción de tu gig juega un papel importante para convencer a tus clientes potenciales de que hagan un pedido contigo. Por lo tanto, debes asegurarte de que la descripción de tu gig sea precisa, clara y atractiva para tus clientes potenciales.
 
 Estudia las descripciones de otros gigs relacionados para inspirarte y modela tu descripción tomándolos como referencia. Recuerda, nunca copies otro gig pues eso hará que te expulsen. Simplemente usa las descripciones de la competencia para obtener ideas que te ayuden a crear una descripción única.
 
@@ -519,7 +540,7 @@ Fiverr maneja todas sus transacciones de manera segura para que no tengas que pr
 
 eBay.com es el sitio web más popular para comprar y vender productos en Internet. Es un lugar donde las personas y las empresas pueden comprar o vender artículos nuevos o de segunda mano, desde libros y ropa hasta autos y casi cualquier cosa.
 
-Así es como funciona eBay -
+Así es como funciona eBay
 
 1. Un vendedor clasifica un artículo en eBay, desde antigüedades hasta teléfonos móviles, libros y artículos deportivos.
 
@@ -529,7 +550,7 @@ Así es como funciona eBay -
 
 4. En una lista de precios fijos, el primer comprador dispuesto a pagar el precio fijado por el vendedor obtiene el artículo. 
 
-Perfil ideal -
+Perfil ideal
 
 Personas motivadas y que sepan correr la voz: amigos, familiares, conocidos y/o gente desconocida que utilizan medios online o fuera de línea.
 
