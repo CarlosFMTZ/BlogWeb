@@ -2,7 +2,7 @@
 title: "Freelancer : Aquí hay algunos consejos prácticos y estrategias"
 date: 2020-04-06
 tags: ["freelancer", "notes", "consejos"]
-categories: ["blog consejos", "freelancer"]
+categories: ["blog", "consejos", "freelancer"]
 description: "Aquí hay algunos consejos prácticos y estrategias"
 draft: false
 

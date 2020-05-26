@@ -1,7 +1,7 @@
 ---
 title: "Arquitectura de microservicios"
 date: 2020-03-22
-tags: ["microservicios", "java", "arquitectura”, “tutorial"]
+tags: ["microservicios", "java", "arquitectura", "tutorial"]
 categories: ["microservicios", "arquitectura"]
 description: "Tutorial de arquitectura de microservicios: todo lo que necesita para comenzar"
 draft: false

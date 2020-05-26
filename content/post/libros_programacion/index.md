@@ -1,7 +1,7 @@
 ---
 title: "Libros de programación gratuitos"
 date: 2020-03-06
-tags: ["libros", "programar", "código”, “gratis"]
+tags: ["libros", "programar", "código","gratis"]
 categories: ["libros", "programación"]
 description: "Libros de programación gratuitos"
 draft: false

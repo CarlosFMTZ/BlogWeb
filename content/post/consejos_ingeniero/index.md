@@ -2,7 +2,7 @@
 title: "10 consejos de un ingeniero"
 date: 2020-05-01
 tags: ["consejos", "notes", "ingeniero"]
-categories: ["blog consejos", "ingeniero"]
+categories: ["blog", "consejos", "ingeniero"]
 description: "Debes de conocer 10 consejos de un ingeniero"
 draft: false
 ---
