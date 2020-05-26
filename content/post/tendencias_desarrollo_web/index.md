@@ -16,7 +16,7 @@ El mundo de las tecnologías de la información está cambiando rápidamente. To
 
 En este artículo, queremos compartir las principales tendencias de desarrollo web de 2020.
 
-1. Inteligencia artificial (IA) y Bots
+### 1. Inteligencia artificial (IA) y Bots
 
 Los asistentes virtuales y los bots pueden realizar diversas funciones cognitivas. Estos son aprender, recopilar datos o resolver problemas difíciles. Este año se destaca por la creciente demanda de comunicaciones habilitadas para IA.
 
@@ -26,7 +26,7 @@ Según el informe Statista, el número aproximado de personas que utilizan asist
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--ECpUwtS5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9bvbzs238uvob3lae6zn.png)
 
-2. Aplicaciones de una sola página
+### 2. Aplicaciones de una sola página
 Una aplicación de una sola página (SPA) es una aplicación web basada en JavaScript. Con la ayuda de la tecnología, los usuarios sienten que navegan por una sola página para todas sus demandas. Los ejemplos más famosos de SPA son Gmail, Google Drive y Twitter.
 
 Echemos un vistazo a las principales ventajas de SPA:
@@ -39,14 +39,14 @@ Disminución del número de interferencias relacionadas con la recarga de la pá
 
 Las aplicaciones de una sola página son una excelente manera de crear una solución web receptiva con el soporte de aplicaciones móviles, de tableta y de escritorio. Los desarrollos más recientes en el SPA están diseñados usando los marcos React y Angular.
 
-3. Sitio web optimizado para dispositivos móviles
+### 3. Sitio web optimizado para dispositivos móviles
 Statista afirma que el número de usuarios móviles será más de 3,8 mil millones en 2021.
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--7qerqPYN--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ivag6ccbrsd3wkhizfr6.png)
 
 Por esta razón, las tendencias actuales de desarrollo web para sitios web optimizados para dispositivos móviles también tienden a crecer. Permite a los empresarios involucrar a la mayor cantidad de usuarios móviles y aumentar sus tasas de conversión.
 
-4. Tecnología Blockchain
+### 4. Tecnología Blockchain
 
 En términos comunes, Blockchain ofrece un mecanismo de transacción de dos lados. Significa que cada operación es verificada por una red distribuida descentralizada. Le permite saber qué datos se verifican.
 
@@ -62,7 +62,7 @@ Teniendo en cuenta el desarrollo web, Blockchain ofrece beneficios tales como:
 - Alta seguridad de datos;
 - Transacciones seguras
 
-5. Aplicaciones web progresivas
+### 5. Aplicaciones web progresivas
 Cuando hablamos de las principales tendencias de desarrollo web, no debemos dejar de mencionar una PWA. Es una aplicación que funciona como una solución web con una experiencia común de aplicación móvil nativa.
 
 Business Insider predice que el tráfico mensual mundial de datos móviles crecerá un 700% en 2021. Esto indica que las personas comenzarán a usar sus instalaciones móviles más para satisfacer sus demandas específicas. Entonces, aquí viene la tendencia Progressive Web App que ofrece una solución de experiencia similar a una aplicación que es más fácil de instalar y lanzar.
@@ -80,7 +80,7 @@ Flipkart, el mercado en línea, convirtió su sitio web en una aplicación web p
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--sdxo9xgF--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/s2txdqibx5mt4nja0ncg.png)
 
-6. Internet de las cosas (IoT)
+### 6. Internet de las cosas (IoT)
 
 Una de mis tecnologias favoritas es el iot y ha estado aumentando a lo largo de estos años muy rapidamente.
 
