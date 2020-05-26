@@ -1,6 +1,6 @@
 ---
 title: "Tendencias para el desarrollo web en 2020"
-date: 2020-04-18
+date: 2020-05-26
 tags: ["tendencias", "plataformas","código", "desarrollo web"]
 categories: ["tendencias", "desarrollo web"]
 description: "Plataformas en la nube que deberías usar"
