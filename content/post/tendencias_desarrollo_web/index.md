@@ -3,10 +3,12 @@ title: "Tendencias para el desarrollo web en 2020"
 date: 2020-05-26
 tags: ["tendencias", "plataformas","código", "desarrollo web"]
 categories: ["tendencias", "desarrollo web"]
-description: "Plataformas en la nube que deberías usar"
+description: "Las principales tendencias para el desarrollo web en el 2020"
 draft: false
 ---
 # 
+
+{{< youtube W914Wx4fBtg >}}
 
 Hace dias me encontraba haciendo un bot para mi pagina de facebook que por cierto es Smart Domain para que puedas darle seguir,bueno me encontraba haciendo el bot y me pregunte cuales son las tecnologias y las tendencias que estaran presentes en este año y esto me ayudo a ser un post para este blog y guardarlo para en un futuro ver cuales son las tecnologias que siguen en tendencia o las que cambiaron.
 
