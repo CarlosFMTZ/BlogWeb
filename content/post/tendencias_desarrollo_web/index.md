@@ -8,7 +8,6 @@ draft: false
 ---
 # 
 
-{{< youtube W914Wx4fBtg >}}
 
 Hace dias me encontraba haciendo un bot para mi pagina de facebook que por cierto es Smart Domain para que puedas darle seguir,bueno me encontraba haciendo el bot y me pregunte cuales son las tecnologias y las tendencias que estaran presentes en este año y esto me ayudo a ser un post para este blog y guardarlo para en un futuro ver cuales son las tecnologias que siguen en tendencia o las que cambiaron.
 

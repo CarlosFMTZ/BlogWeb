@@ -23,7 +23,8 @@ height = "300px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#36E3DB"  # An HTML color value.
-  overlay_img = "3.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "3.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "1-1.jpg"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -40,7 +41,8 @@ height = "300px"
   align = "left"
 
   overlay_color = "#36E3DB"  # An HTML color value.
-  overlay_img = "4.jpe"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "4.jpe"  # Image path relative to your `static/img/` folder.
+  overlay_img = "1-2.jpg"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "Invítame un café"
@@ -54,6 +56,7 @@ height = "300px"
   align = "right"
  
   overlay_color = "#36E3DB"  # An HTML color value.
-  overlay_img = "2.jpg"  # Image path relative to your `static/img/` folder.
+  # overlay_img = "2.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "1-3.jpg"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
