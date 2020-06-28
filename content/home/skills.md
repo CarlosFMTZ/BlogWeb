@@ -34,6 +34,13 @@ subtitle = "Habilidades"
   description = "20%"  
   
 [[feature]]
+  icon = "yoast"
+  icon_pack = "fab"
+  name = "Marketing Digital"
+  description = "40%"
+
+
+[[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Fotografia"
