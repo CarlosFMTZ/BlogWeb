@@ -76,7 +76,7 @@ No hay duda de que cada programador debe conocer Git y Github, ya que son el est
 El Roadmap para Desarrolladores Frontend 2020
 Si desea convertirse en desarrollador front-end en 2020, debe seguir el siguiente RoadMap Developer Front-end. Debes centrarte en los cuadros amarillos que resaltan cosas importantes para aprender y seguir desde allí. Debajo de RoadMap, encontrará recursos adicionales como libros y cursos para ayudarlo en su aprendizaje.
 
-![imagen](https://res.cloudinary.com/practicaldev/image/fetch/s--YYBtGjKU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AYTP0ii6kEqZtxUN0bOKADA.png)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--YYBtGjKU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AYTP0ii6kEqZtxUN0bOKADA.png)
 
 https://github.com/kamranahmedse/developer-roadmap/blob/master/images/frontend.png
 
